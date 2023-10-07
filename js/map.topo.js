@@ -8,7 +8,7 @@
   },
   "transform": [
     {
-      "lookup": "City1_State",
+      "lookup": "state",
       "from": {
         "data": {
           "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179_HW9/458d8bdce8cb2ffc0d89c84f1b7e77ac45148298/states.json",
@@ -20,9 +20,9 @@
     }, {
     "joinaggregate": [{
       "op": "sum",
-      "field": "Passenger_Trips",
+      "field": "Desired_Target_Num",
       "as": "TotalCount"
-    }],"groupby": ["City1_State"]}
+    }],"groupby": ["state"]}
   ],
   "projection": {"type": "equirectangular"},
   "mark": "geoshape",
@@ -30,7 +30,7 @@
     "shape": {"field": "geo", "type": "geojson"},
     "color": {"field": "TotalCount", "type": "quantitative"},
     "tooltip": [
-      {"field": "City1_State", "type": "nominal"},
+      {"field": "state", "type": "nominal"},
       {"field": "TotalCount", "type": "quantitative"}
     ]
   }
