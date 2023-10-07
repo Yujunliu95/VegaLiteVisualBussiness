@@ -4,7 +4,7 @@
   "height": 300,
   "title": "No Subcribed People Over States",
   "data": {
-    "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_data.csv"
+    "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_dataSmall.csv"
   },
   "transform": [
     {
