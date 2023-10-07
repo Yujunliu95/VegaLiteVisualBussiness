@@ -4,14 +4,14 @@
   "height": 300,
   "title": "No Subcribed People Over States",
   "data": {
-    "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_dataSmall.csv"
+    "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/A2_dataSmall.csv"
   },
   "transform": [
     {
       "lookup": "state",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179_HW9/458d8bdce8cb2ffc0d89c84f1b7e77ac45148298/states.json",
+          "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/js/states.json",
           "format": {"type": "topojson", "feature": "states"}
         },
         "key": "properties.STATE_NAME"
