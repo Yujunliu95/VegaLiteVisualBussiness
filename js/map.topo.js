@@ -2,16 +2,16 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
   "height": 300,
-  "title": "No Subcribed People Over States",
+  "title": "Air trips as departure in Australia in 2021",
   "data": {
-    "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/A2_dataSmall.csv"
+    "url": "https://raw.githubusercontent.com/Yujunliu95/VegaLiteVisualBussiness/main/data/A2_dataSmall.csv"
   },
   "transform": [
     {
-      "lookup": "state",
+      "lookup": "City1_State",
       "from": {
         "data": {
-          "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/js/states.json",
+          "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179_HW9/458d8bdce8cb2ffc0d89c84f1b7e77ac45148298/states.json",
           "format": {"type": "topojson", "feature": "states"}
         },
         "key": "properties.STATE_NAME"
@@ -20,9 +20,9 @@
     }, {
     "joinaggregate": [{
       "op": "sum",
-      "field": "Desired_Target_Num",
+      "field": "Passenger_Trips",
       "as": "TotalCount"
-    }],"groupby": ["state"]}
+    }],"groupby": ["City1_State"]}
   ],
   "projection": {"type": "equirectangular"},
   "mark": "geoshape",
@@ -30,7 +30,7 @@
     "shape": {"field": "geo", "type": "geojson"},
     "color": {"field": "TotalCount", "type": "quantitative"},
     "tooltip": [
-      {"field": "state", "type": "nominal"},
+      {"field": "City1_State", "type": "nominal"},
       {"field": "TotalCount", "type": "quantitative"}
     ]
   }
