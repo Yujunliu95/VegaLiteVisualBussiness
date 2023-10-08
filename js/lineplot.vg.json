@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/lineplotdata.csv"
+    },
+    "title": "Subscribed People by Month and Personal Loan",
+    "width": 400,
+    "height": 300,
+    "mark": {
+      "type": "line",
+      "point": true
+    },
+    "encoding": {
+      "x": {
+        "field": "Month",
+        "type": "ordinal",
+        "title": "Month"
+      },
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Count"
+      },
+      "color": {
+        "field": "variable",
+        "type": "nominal",
+        "title": "Loan Type",
+        "scale": {
+          "domain": ["Loan - No", "Loan - Yes"],
+          "range": ["#4c78a8", "#e45756"]
+        }
+      },
+      "tooltip": [
+        {"field": "Month", "type": "ordinal", "title": "Month"},
+        {"field": "variable", "type": "nominal", "title": "Loan Type"},
+        {"field": "value", "type": "quantitative", "title": "Count"}
+      ]
+    },
+    "transform": [{
+      "fold": ["Loan - No", "Loan - Yes"],
+      "as": ["variable", "value"]
+    }]
+  }
+  
