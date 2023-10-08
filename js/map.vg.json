@@ -11,7 +11,7 @@
       "lookup": "state",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179_HW9/458d8bdce8cb2ffc0d89c84f1b7e77ac45148298/states.json",
+          "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/js/states.json",
           "format": {"type": "topojson", "feature": "states"}
         },
         "key": "properties.STATE_NAME"
@@ -21,7 +21,7 @@
     "joinaggregate": [{
       "op": "sum",
       "field": "Desired_Target_Num",
-      "as": "TotalCount",
+      "as": "TotalCount"
     }],"groupby": ["state"]}
   ],
   "projection": {"type": "equirectangular"},
