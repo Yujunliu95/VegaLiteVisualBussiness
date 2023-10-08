@@ -1,0 +1,68 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 300,
+    "data": {"url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_small.csv"},
+    "transform": [
+      {"aggregate": [{"op": "count", "as": "n"}], "groupby": ["Desired_Target"]},
+      {"window": [{"op": "sum", "field": "n", "as": "total"}], "frame": [null, null]},
+      {"calculate": "datum.n / datum.total", "as": "percentage"},
+      {"calculate": "datum.Desired_Target + ': ' + format(datum.percentage, '.2%')", "as": "label_percentage"}
+    ],
+    "title": "Results of the Campaign",
+    "layer": [
+      {
+        "mark": {
+          "type": "arc",
+          "innerRadius": 0
+        },
+        "encoding": {
+          "theta": {"field": "n", "type": "quantitative"},
+          "color": {
+            "field": "Desired_Target",
+            "type": "nominal",
+            "scale": {
+              "domain": ["Subscribed", "Not Subscribed"],
+              "range": ["rgb(114,147,203)", "rgb(211,94,96)"]
+            }
+          },
+          "tooltip": [{"field": "Desired_Target", "type": "nominal"}, {"field": "label_percentage", "type": "nominal"}]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "fontWeight": "bold"
+        },
+        "encoding": {
+          "theta": {"field": "n", "type": "quantitative", "stack": true},
+          "text": {"field": "label_percentage", "type": "nominal"},
+          "radius": {
+            "value": 60
+          }
+        }
+      }
+    ],
+    "view": {
+      "stroke": "transparent"
+    },
+    "config": {
+      "arc": {
+        "stroke": "#FFFFFF"
+      },
+      "text": {
+        "color": "#050000",
+        "fontSize": 16
+      },
+      "axis": {
+        "labels": false,
+        "ticks": false,
+        "domain": false
+      },
+          "legend": {
+        "labelFontSize": 16,
+        "titleFontSize": 18
+        }
+    }
+  }
+  
