@@ -4,7 +4,7 @@
   "height": 300,
   "title": "Air trips as departure in Australia in 2021",
   "data": {
-    "url": "https://raw.githubusercontent.com/Yujunliu95/VegaLiteVisualBussiness/main/data/A2_dataSmall.csv"
+    "url": "https://raw.githubusercontent.com/Yujunliu95/VegaLiteVisualBussiness/main/data/A2_small.csv"
   },
   "transform": [
     {
