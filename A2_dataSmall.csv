@@ -1,0 +1,1001 @@
+age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,Contacts_during_the_Campaign,Previous_Outcome,Desired_Target,Desired_Target_Num,state
+56,housemaid,married,basic.4y,no,no,no,telephone,May,Monday,261,1,nonexistent,Not Subscribed,1,New South Wales
+57,services,married,high.school,unknown,no,no,telephone,May,Monday,149,1,nonexistent,Not Subscribed,1,New South Wales
+37,services,married,high.school,no,yes,no,telephone,May,Monday,226,1,nonexistent,Not Subscribed,1,New South Wales
+40,admin.,married,basic.6y,no,no,no,telephone,May,Monday,151,1,nonexistent,Not Subscribed,1,Victoria
+56,services,married,high.school,no,no,yes,telephone,May,Monday,307,1,nonexistent,Not Subscribed,1,Northern Territory
+45,services,married,basic.9y,unknown,no,no,telephone,May,Monday,198,1,nonexistent,Not Subscribed,1,Victoria
+59,admin.,married,professional.course,no,no,no,telephone,May,Monday,139,1,nonexistent,Not Subscribed,1,Victoria
+41,blue-collar,married,unknown,unknown,no,no,telephone,May,Monday,217,1,nonexistent,Not Subscribed,1,Tasmania
+24,technician,single,professional.course,no,yes,no,telephone,May,Monday,380,1,nonexistent,Not Subscribed,1,New South Wales
+25,services,single,high.school,no,yes,no,telephone,May,Monday,50,1,nonexistent,Not Subscribed,1,South Australia
+41,blue-collar,married,unknown,unknown,no,no,telephone,May,Monday,55,1,nonexistent,Not Subscribed,1,New South Wales
+25,services,single,high.school,no,yes,no,telephone,May,Monday,222,1,nonexistent,Not Subscribed,1,New South Wales
+29,blue-collar,single,high.school,no,no,yes,telephone,May,Monday,137,1,nonexistent,Not Subscribed,1,New South Wales
+57,housemaid,divorced,basic.4y,no,yes,no,telephone,May,Monday,293,1,nonexistent,Not Subscribed,1,New South Wales
+35,blue-collar,married,basic.6y,no,yes,no,telephone,May,Monday,146,1,nonexistent,Not Subscribed,1,New South Wales
+54,retired,married,basic.9y,unknown,yes,yes,telephone,May,Monday,174,1,nonexistent,Not Subscribed,1,Victoria
+35,blue-collar,married,basic.6y,no,yes,no,telephone,May,Monday,312,1,nonexistent,Not Subscribed,1,New South Wales
+46,blue-collar,married,basic.6y,unknown,yes,yes,telephone,May,Monday,440,1,nonexistent,Not Subscribed,1,Queensland
+50,blue-collar,married,basic.9y,no,yes,yes,telephone,May,Monday,353,1,nonexistent,Not Subscribed,1,Victoria
+39,management,single,basic.9y,unknown,no,no,telephone,May,Monday,195,1,nonexistent,Not Subscribed,1,Western Australia
+30,unemployed,married,high.school,no,no,no,telephone,May,Monday,38,1,nonexistent,Not Subscribed,1,Victoria
+55,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Monday,262,1,nonexistent,Not Subscribed,1,Queensland
+55,retired,single,high.school,no,yes,no,telephone,May,Monday,342,1,nonexistent,Not Subscribed,1,Victoria
+41,technician,single,high.school,no,yes,no,telephone,May,Monday,181,1,nonexistent,Not Subscribed,1,Queensland
+37,admin.,married,high.school,no,yes,no,telephone,May,Monday,172,1,nonexistent,Not Subscribed,1,Victoria
+35,technician,married,university.degree,no,no,yes,telephone,May,Monday,99,1,nonexistent,Not Subscribed,1,New South Wales
+59,technician,married,unknown,no,yes,no,telephone,May,Monday,93,1,nonexistent,Not Subscribed,1,Victoria
+39,self-employed,married,basic.9y,unknown,no,no,telephone,May,Monday,233,1,nonexistent,Not Subscribed,1,New South Wales
+54,technician,single,university.degree,unknown,no,no,telephone,May,Monday,255,2,nonexistent,Not Subscribed,1,New South Wales
+55,unknown,married,university.degree,unknown,unknown,unknown,telephone,May,Monday,362,1,nonexistent,Not Subscribed,1,Queensland
+46,admin.,married,unknown,no,no,no,telephone,May,Monday,348,1,nonexistent,Not Subscribed,1,New South Wales
+59,technician,married,unknown,no,yes,no,telephone,May,Monday,386,1,nonexistent,Not Subscribed,1,Western Australia
+49,blue-collar,married,unknown,no,no,no,telephone,May,Monday,73,1,nonexistent,Not Subscribed,1,New South Wales
+54,management,married,basic.4y,unknown,yes,no,telephone,May,Monday,230,1,nonexistent,Not Subscribed,1,Western Australia
+54,blue-collar,divorced,basic.4y,no,no,no,telephone,May,Monday,208,1,nonexistent,Not Subscribed,1,New South Wales
+55,unknown,married,basic.4y,unknown,yes,no,telephone,May,Monday,336,1,nonexistent,Not Subscribed,1,New South Wales
+34,services,married,high.school,no,no,no,telephone,May,Monday,365,1,nonexistent,Not Subscribed,1,Victoria
+52,technician,married,basic.9y,no,yes,no,telephone,May,Monday,1666,1,nonexistent,Not Subscribed,1,Queensland
+41,admin.,married,university.degree,no,yes,no,telephone,May,Monday,577,1,nonexistent,Not Subscribed,1,New South Wales
+56,technician,married,basic.4y,no,yes,no,telephone,May,Monday,137,1,nonexistent,Not Subscribed,1,New South Wales
+58,management,unknown,university.degree,no,yes,no,telephone,May,Monday,366,1,nonexistent,Not Subscribed,1,New South Wales
+32,entrepreneur,married,high.school,no,yes,no,telephone,May,Monday,314,1,nonexistent,Not Subscribed,1,Queensland
+38,admin.,single,professional.course,no,no,no,telephone,May,Monday,160,1,nonexistent,Not Subscribed,1,New South Wales
+57,admin.,married,university.degree,no,no,yes,telephone,May,Monday,212,1,nonexistent,Not Subscribed,1,Victoria
+44,admin.,married,university.degree,unknown,yes,no,telephone,May,Monday,188,1,nonexistent,Not Subscribed,1,Victoria
+42,technician,single,professional.course,unknown,no,no,telephone,May,Monday,22,1,nonexistent,Not Subscribed,1,New South Wales
+57,admin.,married,university.degree,no,yes,yes,telephone,May,Monday,616,1,nonexistent,Not Subscribed,1,Victoria
+40,blue-collar,married,basic.9y,no,no,yes,telephone,May,Monday,178,1,nonexistent,Not Subscribed,1,New South Wales
+35,admin.,married,university.degree,no,yes,no,telephone,May,Monday,355,1,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.9y,no,yes,no,telephone,May,Monday,225,2,nonexistent,Not Subscribed,1,Queensland
+54,admin.,married,high.school,no,no,no,telephone,May,Monday,160,1,nonexistent,Not Subscribed,1,New South Wales
+39,housemaid,married,basic.4y,no,no,yes,telephone,May,Monday,266,1,nonexistent,Not Subscribed,1,Western Australia
+60,admin.,married,high.school,no,no,no,telephone,May,Monday,253,1,nonexistent,Not Subscribed,1,Victoria
+53,admin.,single,professional.course,no,no,no,telephone,May,Monday,179,1,nonexistent,Not Subscribed,1,Queensland
+55,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Monday,269,2,nonexistent,Not Subscribed,1,South Australia
+55,technician,married,professional.course,unknown,yes,no,telephone,May,Monday,135,1,nonexistent,Not Subscribed,1,Tasmania
+50,management,married,university.degree,unknown,no,yes,telephone,May,Monday,161,1,nonexistent,Not Subscribed,1,Western Australia
+45,services,married,high.school,unknown,yes,no,telephone,May,Monday,787,1,nonexistent,Not Subscribed,1,Victoria
+55,unemployed,married,professional.course,unknown,yes,yes,telephone,May,Monday,145,1,nonexistent,Not Subscribed,1,New South Wales
+25,technician,single,university.degree,no,yes,no,telephone,May,Monday,174,1,nonexistent,Not Subscribed,1,New South Wales
+47,entrepreneur,married,university.degree,unknown,no,no,telephone,May,Monday,449,1,nonexistent,Not Subscribed,1,Queensland
+51,blue-collar,married,basic.9y,no,yes,no,telephone,May,Monday,812,1,nonexistent,Not Subscribed,1,Victoria
+42,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Monday,164,1,nonexistent,Not Subscribed,1,Western Australia
+42,blue-collar,married,basic.6y,unknown,no,no,telephone,May,Monday,366,1,nonexistent,Not Subscribed,1,Victoria
+48,admin.,married,high.school,no,no,no,telephone,May,Monday,357,1,nonexistent,Not Subscribed,1,Queensland
+37,admin.,married,university.degree,no,no,no,telephone,May,Monday,232,1,nonexistent,Not Subscribed,1,South Australia
+44,blue-collar,single,basic.9y,no,yes,no,telephone,May,Monday,91,1,nonexistent,Not Subscribed,1,New South Wales
+33,admin.,married,unknown,no,yes,no,telephone,May,Monday,273,1,nonexistent,Not Subscribed,1,Victoria
+56,admin.,married,basic.9y,no,yes,no,telephone,May,Monday,158,2,nonexistent,Not Subscribed,1,Queensland
+44,blue-collar,single,basic.4y,unknown,yes,yes,telephone,May,Monday,177,1,nonexistent,Not Subscribed,1,New South Wales
+41,management,married,basic.6y,no,no,no,telephone,May,Monday,200,1,nonexistent,Not Subscribed,1,New South Wales
+44,management,divorced,university.degree,no,yes,no,telephone,May,Monday,172,1,nonexistent,Not Subscribed,1,Tasmania
+47,admin.,married,university.degree,unknown,yes,no,telephone,May,Monday,176,1,nonexistent,Not Subscribed,1,South Australia
+57,unknown,married,unknown,unknown,no,no,telephone,May,Monday,211,1,nonexistent,Not Subscribed,1,Victoria
+37,admin.,married,university.degree,unknown,yes,no,telephone,May,Monday,214,1,nonexistent,Not Subscribed,1,New South Wales
+41,blue-collar,divorced,basic.4y,unknown,yes,no,telephone,May,Monday,1575,1,nonexistent,Subscribed,0,New South Wales
+55,technician,married,university.degree,no,no,no,telephone,May,Monday,349,1,nonexistent,Not Subscribed,1,New South Wales
+33,services,married,high.school,unknown,yes,no,telephone,May,Monday,337,2,nonexistent,Not Subscribed,1,Western Australia
+55,management,married,unknown,unknown,yes,no,telephone,May,Monday,272,1,nonexistent,Not Subscribed,1,Queensland
+42,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Monday,208,1,nonexistent,Not Subscribed,1,New South Wales
+50,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Monday,193,1,nonexistent,Not Subscribed,1,Queensland
+51,blue-collar,married,basic.4y,unknown,unknown,unknown,telephone,May,Monday,212,1,nonexistent,Not Subscribed,1,Queensland
+38,admin.,married,high.school,unknown,no,no,telephone,May,Monday,165,2,nonexistent,Not Subscribed,1,Victoria
+49,entrepreneur,married,university.degree,unknown,yes,no,telephone,May,Monday,1042,1,nonexistent,Subscribed,0,Victoria
+38,technician,single,university.degree,no,no,yes,telephone,May,Monday,20,1,nonexistent,Not Subscribed,1,Victoria
+31,admin.,divorced,high.school,no,no,no,telephone,May,Monday,246,1,nonexistent,Not Subscribed,1,New South Wales
+41,management,married,basic.6y,no,no,no,telephone,May,Monday,529,2,nonexistent,Not Subscribed,1,Victoria
+39,admin.,married,university.degree,no,yes,yes,telephone,May,Monday,192,1,nonexistent,Not Subscribed,1,Victoria
+49,technician,married,basic.9y,no,no,no,telephone,May,Monday,1467,1,nonexistent,Subscribed,0,Victoria
+34,admin.,married,high.school,no,yes,no,telephone,May,Monday,188,2,nonexistent,Not Subscribed,1,South Australia
+35,admin.,married,university.degree,no,yes,no,telephone,May,Monday,180,2,nonexistent,Not Subscribed,1,Victoria
+57,unknown,married,unknown,unknown,yes,no,telephone,May,Monday,48,1,nonexistent,Not Subscribed,1,New South Wales
+60,admin.,married,unknown,unknown,no,yes,telephone,May,Monday,213,2,nonexistent,Not Subscribed,1,New South Wales
+33,unemployed,married,basic.9y,no,no,no,telephone,May,Monday,545,1,nonexistent,Not Subscribed,1,Victoria
+42,blue-collar,married,basic.6y,no,no,yes,telephone,May,Monday,583,1,nonexistent,Not Subscribed,1,New South Wales
+45,services,married,professional.course,no,yes,no,telephone,May,Monday,221,1,nonexistent,Not Subscribed,1,Queensland
+42,management,married,university.degree,no,no,no,telephone,May,Monday,426,1,nonexistent,Not Subscribed,1,Western Australia
+53,admin.,divorced,university.degree,unknown,no,no,telephone,May,Monday,287,1,nonexistent,Not Subscribed,1,Victoria
+37,technician,single,professional.course,no,no,no,telephone,May,Monday,197,1,nonexistent,Not Subscribed,1,New South Wales
+44,blue-collar,married,basic.6y,no,no,no,telephone,May,Monday,257,1,nonexistent,Not Subscribed,1,Queensland
+54,services,married,unknown,no,yes,no,telephone,May,Monday,229,1,nonexistent,Not Subscribed,1,Victoria
+49,blue-collar,married,basic.4y,no,no,no,telephone,May,Monday,55,3,nonexistent,Not Subscribed,1,Queensland
+54,services,married,unknown,no,no,no,telephone,May,Monday,400,1,nonexistent,Not Subscribed,1,New South Wales
+52,admin.,divorced,university.degree,no,no,no,telephone,May,Monday,197,1,nonexistent,Not Subscribed,1,South Australia
+52,admin.,divorced,university.degree,no,no,no,telephone,May,Monday,190,1,nonexistent,Not Subscribed,1,New South Wales
+43,services,single,high.school,unknown,no,no,telephone,May,Monday,21,1,nonexistent,Not Subscribed,1,Queensland
+34,housemaid,married,basic.6y,no,yes,no,telephone,May,Monday,300,2,nonexistent,Not Subscribed,1,Victoria
+35,admin.,married,high.school,no,yes,no,telephone,May,Monday,123,2,nonexistent,Not Subscribed,1,New South Wales
+42,entrepreneur,married,unknown,unknown,yes,no,telephone,May,Monday,293,1,nonexistent,Not Subscribed,1,New South Wales
+43,technician,married,unknown,unknown,yes,yes,telephone,May,Monday,325,1,nonexistent,Not Subscribed,1,South Australia
+60,retired,divorced,university.degree,unknown,no,no,telephone,May,Monday,514,1,nonexistent,Not Subscribed,1,New South Wales
+58,unemployed,married,basic.4y,unknown,no,no,telephone,May,Monday,849,2,nonexistent,Not Subscribed,1,Tasmania
+35,services,divorced,high.school,no,yes,no,telephone,May,Monday,194,1,nonexistent,Not Subscribed,1,Victoria
+55,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Monday,212,2,nonexistent,Not Subscribed,1,New South Wales
+37,management,married,university.degree,no,no,no,telephone,May,Monday,337,2,nonexistent,Not Subscribed,1,New South Wales
+36,blue-collar,married,high.school,no,no,no,telephone,May,Monday,286,1,nonexistent,Not Subscribed,1,Queensland
+52,admin.,divorced,university.degree,no,no,no,telephone,May,Monday,247,2,nonexistent,Not Subscribed,1,Queensland
+57,blue-collar,divorced,unknown,unknown,yes,no,telephone,May,Monday,518,1,nonexistent,Not Subscribed,1,Victoria
+56,admin.,married,unknown,no,yes,no,telephone,May,Monday,364,1,nonexistent,Not Subscribed,1,Victoria
+48,blue-collar,divorced,basic.4y,unknown,yes,no,telephone,May,Monday,178,1,nonexistent,Not Subscribed,1,Western Australia
+40,blue-collar,married,high.school,unknown,yes,no,telephone,May,Monday,98,1,nonexistent,Not Subscribed,1,New South Wales
+49,blue-collar,divorced,high.school,no,no,no,telephone,May,Monday,439,1,nonexistent,Not Subscribed,1,Queensland
+41,services,married,high.school,no,no,no,telephone,May,Monday,139,1,nonexistent,Not Subscribed,1,New South Wales
+45,technician,married,high.school,no,yes,no,telephone,May,Monday,79,1,nonexistent,Not Subscribed,1,Victoria
+32,admin.,married,university.degree,no,yes,yes,telephone,May,Monday,175,1,nonexistent,Not Subscribed,1,New South Wales
+42,admin.,married,university.degree,no,no,yes,telephone,May,Monday,262,2,nonexistent,Not Subscribed,1,Queensland
+50,admin.,married,basic.6y,no,no,no,telephone,May,Monday,61,1,nonexistent,Not Subscribed,1,New South Wales
+31,technician,divorced,professional.course,no,yes,yes,telephone,May,Monday,78,1,nonexistent,Not Subscribed,1,Queensland
+56,retired,married,basic.4y,no,yes,no,telephone,May,Monday,102,2,nonexistent,Not Subscribed,1,Queensland
+41,technician,married,professional.course,unknown,yes,no,telephone,May,Monday,579,1,nonexistent,Subscribed,0,New South Wales
+37,blue-collar,married,basic.6y,no,yes,yes,telephone,May,Monday,143,1,nonexistent,Not Subscribed,1,Victoria
+41,technician,married,professional.course,unknown,no,no,telephone,May,Monday,677,1,nonexistent,Not Subscribed,1,Western Australia
+35,blue-collar,married,unknown,no,yes,no,telephone,May,Monday,267,1,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,married,basic.6y,no,yes,no,telephone,May,Monday,345,1,nonexistent,Not Subscribed,1,New South Wales
+52,management,married,university.degree,no,no,no,telephone,May,Monday,185,1,nonexistent,Not Subscribed,1,New South Wales
+39,management,divorced,university.degree,no,no,no,telephone,May,Monday,207,1,nonexistent,Not Subscribed,1,New South Wales
+39,housemaid,married,basic.4y,unknown,no,no,telephone,May,Monday,69,2,nonexistent,Not Subscribed,1,New South Wales
+56,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Monday,100,2,nonexistent,Not Subscribed,1,New South Wales
+34,services,married,high.school,no,yes,no,telephone,May,Monday,125,2,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Monday,461,1,nonexistent,Subscribed,0,Victoria
+43,unemployed,single,university.degree,no,yes,no,telephone,May,Monday,240,1,nonexistent,Not Subscribed,1,New South Wales
+56,management,married,unknown,no,yes,no,telephone,May,Monday,70,1,nonexistent,Not Subscribed,1,New South Wales
+39,management,married,university.degree,no,yes,no,telephone,May,Monday,193,1,nonexistent,Not Subscribed,1,Victoria
+53,blue-collar,married,basic.4y,no,yes,no,telephone,May,Monday,136,1,nonexistent,Not Subscribed,1,Victoria
+38,unknown,divorced,high.school,unknown,yes,no,telephone,May,Monday,73,1,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Monday,528,1,nonexistent,Not Subscribed,1,Queensland
+42,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Monday,541,1,nonexistent,Not Subscribed,1,Victoria
+35,admin.,single,high.school,no,yes,no,telephone,May,Monday,338,1,nonexistent,Not Subscribed,1,Victoria
+40,admin.,married,university.degree,unknown,yes,no,telephone,May,Monday,163,1,nonexistent,Not Subscribed,1,Queensland
+51,blue-collar,married,basic.4y,no,yes,no,telephone,May,Monday,87,1,nonexistent,Not Subscribed,1,New South Wales
+60,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Monday,301,1,nonexistent,Not Subscribed,1,Victoria
+56,entrepreneur,married,unknown,unknown,yes,no,telephone,May,Monday,46,1,nonexistent,Not Subscribed,1,New South Wales
+39,services,divorced,high.school,unknown,yes,no,telephone,May,Monday,52,1,nonexistent,Not Subscribed,1,Victoria
+56,entrepreneur,married,unknown,unknown,no,no,telephone,May,Monday,204,1,nonexistent,Not Subscribed,1,New South Wales
+40,blue-collar,married,unknown,no,yes,yes,telephone,May,Monday,155,1,nonexistent,Not Subscribed,1,Victoria
+36,blue-collar,married,basic.9y,no,yes,yes,telephone,May,Monday,98,1,nonexistent,Not Subscribed,1,New South Wales
+51,blue-collar,married,unknown,unknown,yes,no,telephone,May,Monday,71,1,nonexistent,Not Subscribed,1,Queensland
+51,blue-collar,married,unknown,unknown,no,no,telephone,May,Monday,243,1,nonexistent,Not Subscribed,1,Western Australia
+43,technician,single,professional.course,no,yes,no,telephone,May,Monday,186,2,nonexistent,Not Subscribed,1,New South Wales
+59,services,married,high.school,no,no,no,telephone,May,Monday,579,2,nonexistent,Not Subscribed,1,Queensland
+24,management,single,university.degree,no,yes,no,telephone,May,Monday,165,2,nonexistent,Not Subscribed,1,Victoria
+37,blue-collar,single,basic.9y,unknown,yes,yes,telephone,May,Monday,163,2,nonexistent,Not Subscribed,1,Queensland
+40,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Monday,46,1,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Monday,559,3,nonexistent,Not Subscribed,1,Queensland
+39,services,divorced,high.school,unknown,no,no,telephone,May,Monday,2033,1,nonexistent,Not Subscribed,1,Queensland
+37,entrepreneur,married,basic.6y,no,no,no,telephone,May,Monday,85,1,nonexistent,Not Subscribed,1,Western Australia
+38,services,married,high.school,no,yes,yes,telephone,May,Monday,506,1,nonexistent,Not Subscribed,1,New South Wales
+56,admin.,divorced,unknown,unknown,no,no,telephone,May,Monday,114,2,nonexistent,Not Subscribed,1,New South Wales
+40,blue-collar,married,unknown,no,no,no,telephone,May,Monday,114,2,nonexistent,Not Subscribed,1,Western Australia
+54,management,divorced,university.degree,no,yes,no,telephone,May,Monday,843,2,nonexistent,Not Subscribed,1,Western Australia
+43,blue-collar,married,high.school,unknown,no,yes,telephone,May,Monday,181,1,nonexistent,Not Subscribed,1,Western Australia
+36,services,married,high.school,unknown,no,no,telephone,May,Monday,427,1,nonexistent,Not Subscribed,1,New South Wales
+45,technician,married,university.degree,no,yes,yes,telephone,May,Monday,292,1,nonexistent,Not Subscribed,1,Victoria
+42,admin.,single,university.degree,unknown,no,no,telephone,May,Monday,192,1,nonexistent,Not Subscribed,1,South Australia
+43,services,married,high.school,no,no,no,telephone,May,Monday,93,3,nonexistent,Not Subscribed,1,New South Wales
+46,management,married,basic.9y,no,no,no,telephone,May,Monday,128,2,nonexistent,Not Subscribed,1,Western Australia
+44,services,married,high.school,no,yes,yes,telephone,May,Monday,107,1,nonexistent,Not Subscribed,1,Western Australia
+51,admin.,single,basic.6y,no,no,no,telephone,May,Monday,303,2,nonexistent,Not Subscribed,1,New South Wales
+28,services,married,high.school,no,yes,no,telephone,May,Monday,81,1,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,married,basic.9y,no,no,no,telephone,May,Monday,270,1,nonexistent,Not Subscribed,1,Victoria
+34,technician,married,high.school,no,no,no,telephone,May,Monday,228,1,nonexistent,Not Subscribed,1,Victoria
+46,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Monday,240,1,nonexistent,Not Subscribed,1,Victoria
+42,blue-collar,married,basic.9y,no,yes,yes,telephone,May,Monday,673,2,nonexistent,Subscribed,0,Victoria
+36,admin.,married,university.degree,no,yes,no,telephone,May,Monday,233,3,nonexistent,Not Subscribed,1,Victoria
+54,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Monday,102,1,nonexistent,Not Subscribed,1,New South Wales
+57,management,married,university.degree,no,no,no,telephone,May,Monday,461,1,nonexistent,Not Subscribed,1,New South Wales
+51,technician,married,basic.6y,unknown,no,no,telephone,May,Monday,250,1,nonexistent,Not Subscribed,1,Victoria
+54,retired,married,high.school,unknown,no,no,telephone,May,Monday,130,1,nonexistent,Not Subscribed,1,New South Wales
+49,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Monday,252,1,nonexistent,Not Subscribed,1,Queensland
+34,admin.,married,university.degree,no,yes,no,telephone,May,Monday,138,1,nonexistent,Not Subscribed,1,Victoria
+41,technician,married,professional.course,no,no,no,telephone,May,Monday,412,1,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,single,basic.9y,no,yes,no,telephone,May,Monday,179,2,nonexistent,Not Subscribed,1,Queensland
+45,management,divorced,university.degree,no,no,no,telephone,May,Monday,19,2,nonexistent,Not Subscribed,1,Queensland
+42,technician,married,university.degree,no,no,no,telephone,May,Monday,228,2,nonexistent,Not Subscribed,1,New South Wales
+34,blue-collar,single,basic.9y,unknown,yes,no,telephone,May,Monday,55,1,nonexistent,Not Subscribed,1,New South Wales
+48,blue-collar,married,basic.4y,no,yes,no,telephone,May,Monday,717,1,nonexistent,Not Subscribed,1,New South Wales
+37,admin.,married,high.school,unknown,yes,no,telephone,May,Monday,313,1,nonexistent,Not Subscribed,1,New South Wales
+34,blue-collar,single,basic.9y,unknown,no,no,telephone,May,Monday,289,1,nonexistent,Not Subscribed,1,Queensland
+40,admin.,married,basic.9y,unknown,yes,no,telephone,May,Monday,683,2,nonexistent,Not Subscribed,1,Tasmania
+43,blue-collar,married,basic.6y,no,yes,no,telephone,May,Monday,1077,1,nonexistent,Not Subscribed,1,New South Wales
+33,services,married,high.school,no,no,no,telephone,May,Monday,146,2,nonexistent,Not Subscribed,1,Queensland
+32,services,single,basic.6y,no,no,no,telephone,May,Monday,167,1,nonexistent,Not Subscribed,1,Victoria
+39,blue-collar,married,high.school,no,yes,no,telephone,May,Monday,356,2,nonexistent,Not Subscribed,1,Victoria
+43,admin.,married,unknown,no,no,no,telephone,May,Monday,277,1,nonexistent,Not Subscribed,1,Queensland
+44,blue-collar,married,basic.9y,no,yes,no,telephone,May,Monday,172,1,nonexistent,Not Subscribed,1,Victoria
+35,student,single,university.degree,unknown,no,no,telephone,May,Monday,218,1,nonexistent,Not Subscribed,1,Victoria
+35,student,single,university.degree,unknown,yes,yes,telephone,May,Monday,217,1,nonexistent,Not Subscribed,1,Queensland
+35,unemployed,married,professional.course,no,no,no,telephone,May,Monday,67,1,nonexistent,Not Subscribed,1,Queensland
+36,services,single,basic.4y,no,no,no,telephone,May,Monday,291,1,nonexistent,Not Subscribed,1,Queensland
+35,student,single,university.degree,unknown,yes,no,telephone,May,Monday,248,1,nonexistent,Not Subscribed,1,Western Australia
+36,student,single,basic.9y,no,yes,no,telephone,May,Monday,256,1,nonexistent,Not Subscribed,1,Victoria
+55,housemaid,divorced,university.degree,no,no,no,telephone,May,Monday,286,1,nonexistent,Not Subscribed,1,New South Wales
+59,admin.,married,university.degree,no,no,no,telephone,May,Monday,477,1,nonexistent,Not Subscribed,1,New South Wales
+57,retired,married,unknown,unknown,no,no,telephone,May,Monday,611,2,nonexistent,Not Subscribed,1,Victoria
+39,blue-collar,married,professional.course,unknown,yes,no,telephone,May,Monday,471,1,nonexistent,Not Subscribed,1,New South Wales
+39,housemaid,married,basic.4y,unknown,yes,no,telephone,May,Monday,381,2,nonexistent,Not Subscribed,1,Western Australia
+30,blue-collar,single,unknown,no,yes,no,telephone,May,Monday,251,1,nonexistent,Not Subscribed,1,New South Wales
+30,blue-collar,single,unknown,no,yes,yes,telephone,May,Monday,408,1,nonexistent,Not Subscribed,1,New South Wales
+50,housemaid,married,basic.4y,unknown,no,no,telephone,May,Monday,287,1,nonexistent,Not Subscribed,1,Victoria
+40,services,married,high.school,no,no,no,telephone,May,Monday,322,3,nonexistent,Not Subscribed,1,New South Wales
+35,admin.,married,high.school,no,yes,no,telephone,May,Monday,216,2,nonexistent,Not Subscribed,1,Western Australia
+43,technician,married,unknown,unknown,no,no,telephone,May,Monday,366,2,nonexistent,Not Subscribed,1,New South Wales
+36,services,single,basic.6y,unknown,yes,no,telephone,May,Monday,210,1,nonexistent,Not Subscribed,1,Queensland
+46,technician,married,basic.4y,unknown,yes,no,telephone,May,Monday,288,1,nonexistent,Not Subscribed,1,Tasmania
+40,technician,married,basic.9y,no,no,no,telephone,May,Monday,168,1,nonexistent,Not Subscribed,1,New South Wales
+58,retired,married,university.degree,no,no,no,telephone,May,Monday,132,1,nonexistent,Not Subscribed,1,South Australia
+42,technician,married,university.degree,no,no,no,telephone,May,Monday,64,2,nonexistent,Not Subscribed,1,Queensland
+35,admin.,single,university.degree,no,no,no,telephone,May,Monday,209,2,nonexistent,Not Subscribed,1,Victoria
+43,retired,married,basic.4y,unknown,no,no,telephone,May,Monday,410,3,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.4y,no,yes,yes,telephone,May,Monday,177,1,nonexistent,Not Subscribed,1,Victoria
+39,admin.,married,professional.course,no,yes,no,telephone,May,Monday,580,2,nonexistent,Not Subscribed,1,New South Wales
+50,services,divorced,professional.course,no,yes,no,telephone,May,Monday,165,1,nonexistent,Not Subscribed,1,Victoria
+32,management,divorced,basic.4y,unknown,yes,no,telephone,May,Monday,127,2,nonexistent,Not Subscribed,1,New South Wales
+39,admin.,married,high.school,unknown,no,no,telephone,May,Monday,357,1,nonexistent,Not Subscribed,1,Victoria
+52,self-employed,married,university.degree,unknown,no,no,telephone,May,Monday,175,1,nonexistent,Not Subscribed,1,Western Australia
+44,admin.,married,professional.course,no,yes,no,telephone,May,Monday,300,1,nonexistent,Not Subscribed,1,New South Wales
+56,blue-collar,married,basic.4y,no,no,no,telephone,May,Monday,136,1,nonexistent,Not Subscribed,1,Victoria
+48,admin.,married,high.school,no,no,no,telephone,May,Monday,125,2,nonexistent,Not Subscribed,1,New South Wales
+33,services,married,high.school,unknown,no,yes,telephone,May,Monday,189,2,nonexistent,Not Subscribed,1,Victoria
+43,management,married,university.degree,unknown,no,yes,telephone,May,Monday,213,3,nonexistent,Not Subscribed,1,Victoria
+57,retired,married,high.school,no,no,no,telephone,May,Monday,238,2,nonexistent,Not Subscribed,1,New South Wales
+36,technician,single,professional.course,no,no,no,telephone,May,Monday,124,1,nonexistent,Not Subscribed,1,Queensland
+34,management,married,university.degree,no,yes,no,telephone,May,Monday,18,1,nonexistent,Not Subscribed,1,New South Wales
+34,services,single,basic.9y,no,no,no,telephone,May,Monday,730,2,nonexistent,Not Subscribed,1,Queensland
+30,technician,married,university.degree,unknown,no,no,telephone,May,Monday,40,1,nonexistent,Not Subscribed,1,Victoria
+33,services,divorced,unknown,no,no,no,telephone,May,Monday,181,2,nonexistent,Not Subscribed,1,Queensland
+32,technician,single,professional.course,no,no,no,telephone,May,Monday,79,1,nonexistent,Not Subscribed,1,New South Wales
+36,technician,single,high.school,no,yes,no,telephone,May,Monday,142,2,nonexistent,Not Subscribed,1,Victoria
+36,blue-collar,single,high.school,no,no,yes,telephone,May,Monday,389,1,nonexistent,Not Subscribed,1,New South Wales
+33,services,single,high.school,no,no,no,telephone,May,Monday,702,1,nonexistent,Not Subscribed,1,New South Wales
+40,technician,divorced,professional.course,no,no,no,telephone,May,Monday,151,1,nonexistent,Not Subscribed,1,Queensland
+41,blue-collar,married,basic.4y,no,yes,no,telephone,May,Monday,211,1,nonexistent,Not Subscribed,1,New South Wales
+51,services,married,basic.6y,no,yes,no,telephone,May,Monday,117,1,nonexistent,Not Subscribed,1,Queensland
+36,technician,married,professional.course,no,yes,no,telephone,May,Monday,232,3,nonexistent,Not Subscribed,1,New South Wales
+28,services,married,unknown,no,no,no,telephone,May,Monday,408,2,nonexistent,Not Subscribed,1,New South Wales
+53,services,married,high.school,no,yes,yes,telephone,May,Monday,370,3,nonexistent,Not Subscribed,1,Western Australia
+58,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Monday,179,2,nonexistent,Not Subscribed,1,New South Wales
+45,management,married,basic.9y,no,no,yes,telephone,May,Monday,46,1,nonexistent,Not Subscribed,1,Queensland
+43,technician,married,unknown,no,yes,no,telephone,May,Monday,200,1,nonexistent,Not Subscribed,1,New South Wales
+33,admin.,married,high.school,no,no,yes,telephone,May,Monday,50,1,nonexistent,Not Subscribed,1,New South Wales
+33,admin.,married,high.school,no,no,yes,telephone,May,Monday,181,1,nonexistent,Not Subscribed,1,Victoria
+27,blue-collar,single,basic.6y,no,unknown,unknown,telephone,May,Monday,119,1,nonexistent,Not Subscribed,1,Victoria
+42,technician,married,high.school,no,no,no,telephone,May,Monday,361,1,nonexistent,Not Subscribed,1,New South Wales
+43,admin.,divorced,basic.9y,no,no,no,telephone,May,Monday,73,3,nonexistent,Not Subscribed,1,Queensland
+42,admin.,married,university.degree,no,no,no,telephone,May,Monday,67,2,nonexistent,Not Subscribed,1,Victoria
+27,blue-collar,single,basic.6y,no,no,no,telephone,May,Monday,350,1,nonexistent,Not Subscribed,1,New South Wales
+34,self-employed,single,university.degree,no,yes,no,telephone,May,Monday,150,2,nonexistent,Not Subscribed,1,New South Wales
+31,student,single,university.degree,unknown,no,no,telephone,May,Monday,332,2,nonexistent,Not Subscribed,1,New South Wales
+54,management,divorced,university.degree,no,no,no,telephone,May,Monday,611,2,nonexistent,Not Subscribed,1,Victoria
+40,self-employed,married,basic.4y,unknown,no,no,telephone,May,Monday,58,3,nonexistent,Not Subscribed,1,New South Wales
+52,unemployed,married,high.school,unknown,yes,no,telephone,May,Monday,151,1,nonexistent,Not Subscribed,1,Western Australia
+47,management,divorced,university.degree,no,no,no,telephone,May,Monday,89,2,nonexistent,Not Subscribed,1,Western Australia
+49,housemaid,married,basic.9y,unknown,no,no,telephone,May,Monday,152,1,nonexistent,Not Subscribed,1,Tasmania
+32,admin.,single,high.school,no,no,no,telephone,May,Monday,611,2,nonexistent,Not Subscribed,1,Victoria
+49,housemaid,single,high.school,unknown,yes,yes,telephone,May,Monday,110,2,nonexistent,Not Subscribed,1,New South Wales
+50,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Monday,463,1,nonexistent,Not Subscribed,1,South Australia
+34,services,married,high.school,no,no,no,telephone,May,Monday,962,1,nonexistent,Not Subscribed,1,Queensland
+55,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Monday,102,2,nonexistent,Not Subscribed,1,New South Wales
+47,technician,single,basic.9y,no,no,no,telephone,May,Monday,10,4,nonexistent,Not Subscribed,1,New South Wales
+51,retired,married,professional.course,no,no,no,telephone,May,Monday,118,3,nonexistent,Not Subscribed,1,Queensland
+47,blue-collar,married,basic.6y,no,no,no,telephone,May,Monday,92,2,nonexistent,Not Subscribed,1,New South Wales
+56,technician,married,basic.4y,no,yes,no,telephone,May,Monday,143,3,nonexistent,Not Subscribed,1,Victoria
+53,admin.,married,basic.9y,no,no,no,telephone,May,Monday,189,3,nonexistent,Not Subscribed,1,New South Wales
+36,blue-collar,married,basic.9y,no,yes,no,telephone,May,Monday,75,2,nonexistent,Not Subscribed,1,Victoria
+42,blue-collar,divorced,basic.9y,no,yes,no,telephone,May,Monday,189,2,nonexistent,Not Subscribed,1,Victoria
+44,blue-collar,divorced,basic.6y,no,no,no,telephone,May,Monday,55,2,nonexistent,Not Subscribed,1,Tasmania
+39,housemaid,married,basic.9y,no,yes,no,telephone,May,Monday,935,3,nonexistent,Subscribed,0,New South Wales
+37,admin.,single,high.school,no,yes,yes,telephone,May,Monday,56,2,nonexistent,Not Subscribed,1,Victoria
+60,blue-collar,married,unknown,unknown,yes,no,telephone,May,Monday,5,2,nonexistent,Not Subscribed,1,South Australia
+36,services,married,high.school,no,no,no,telephone,May,Monday,225,2,nonexistent,Not Subscribed,1,Victoria
+42,management,divorced,university.degree,no,yes,no,telephone,May,Monday,125,2,nonexistent,Not Subscribed,1,New South Wales
+31,admin.,married,high.school,no,yes,yes,telephone,May,Monday,286,2,nonexistent,Not Subscribed,1,New South Wales
+53,technician,divorced,professional.course,unknown,no,yes,telephone,May,Monday,206,2,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.4y,no,yes,no,telephone,May,Monday,164,2,nonexistent,Not Subscribed,1,Victoria
+37,technician,single,professional.course,no,yes,no,telephone,May,Monday,98,2,nonexistent,Not Subscribed,1,Queensland
+47,self-employed,married,professional.course,no,no,no,telephone,May,Monday,446,2,nonexistent,Not Subscribed,1,Western Australia
+49,blue-collar,divorced,high.school,no,no,yes,telephone,May,Monday,742,2,nonexistent,Not Subscribed,1,New South Wales
+36,admin.,married,university.degree,no,yes,no,telephone,May,Monday,120,2,nonexistent,Not Subscribed,1,Western Australia
+35,services,divorced,high.school,no,no,no,telephone,May,Monday,122,3,nonexistent,Not Subscribed,1,Western Australia
+38,unknown,married,unknown,unknown,no,no,telephone,May,Monday,362,4,nonexistent,Not Subscribed,1,Queensland
+38,services,single,high.school,unknown,no,no,telephone,May,Monday,357,2,nonexistent,Not Subscribed,1,Queensland
+50,blue-collar,divorced,high.school,unknown,no,yes,telephone,May,Monday,200,2,nonexistent,Not Subscribed,1,Queensland
+59,retired,married,professional.course,unknown,no,no,telephone,May,Monday,107,2,nonexistent,Not Subscribed,1,Victoria
+43,unknown,married,unknown,no,yes,no,telephone,May,Monday,267,2,nonexistent,Not Subscribed,1,Queensland
+42,admin.,married,high.school,no,yes,no,telephone,May,Monday,248,2,nonexistent,Not Subscribed,1,Queensland
+40,admin.,married,basic.6y,unknown,yes,no,telephone,May,Monday,215,2,nonexistent,Not Subscribed,1,Victoria
+46,blue-collar,married,unknown,unknown,no,no,telephone,May,Monday,209,2,nonexistent,Not Subscribed,1,Western Australia
+57,housemaid,divorced,basic.4y,no,yes,yes,telephone,May,Monday,205,2,nonexistent,Not Subscribed,1,New South Wales
+42,admin.,married,university.degree,no,yes,no,telephone,May,Monday,261,3,nonexistent,Not Subscribed,1,Victoria
+41,blue-collar,married,basic.4y,no,yes,no,telephone,May,Monday,83,2,nonexistent,Not Subscribed,1,Western Australia
+54,management,divorced,university.degree,no,yes,no,telephone,May,Monday,106,3,nonexistent,Not Subscribed,1,Victoria
+27,admin.,single,university.degree,no,no,no,telephone,May,Monday,106,2,nonexistent,Not Subscribed,1,Victoria
+36,admin.,married,high.school,no,no,no,telephone,May,Monday,108,2,nonexistent,Not Subscribed,1,New South Wales
+58,blue-collar,married,professional.course,unknown,yes,no,telephone,May,Monday,214,2,nonexistent,Not Subscribed,1,Queensland
+40,management,married,university.degree,unknown,yes,no,telephone,May,Monday,358,2,nonexistent,Not Subscribed,1,New South Wales
+34,admin.,single,basic.9y,unknown,no,no,telephone,May,Monday,453,2,nonexistent,Not Subscribed,1,Western Australia
+33,admin.,divorced,high.school,no,no,no,telephone,May,Monday,364,2,nonexistent,Not Subscribed,1,Queensland
+56,retired,married,basic.6y,no,no,no,telephone,May,Monday,136,2,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,basic.9y,no,no,no,telephone,May,Monday,173,2,nonexistent,Not Subscribed,1,Victoria
+43,services,married,high.school,no,yes,no,telephone,May,Monday,241,2,nonexistent,Not Subscribed,1,South Australia
+54,management,single,basic.9y,no,yes,no,telephone,May,Monday,224,3,nonexistent,Not Subscribed,1,New South Wales
+53,admin.,single,basic.6y,no,yes,yes,telephone,May,Monday,148,2,nonexistent,Not Subscribed,1,Victoria
+42,technician,single,unknown,no,no,no,telephone,May,Monday,230,2,nonexistent,Not Subscribed,1,Victoria
+40,services,married,basic.6y,unknown,no,no,telephone,May,Monday,199,3,nonexistent,Not Subscribed,1,New South Wales
+54,technician,married,professional.course,no,yes,yes,telephone,May,Monday,196,2,nonexistent,Not Subscribed,1,Western Australia
+40,housemaid,single,professional.course,no,no,no,telephone,May,Monday,111,4,nonexistent,Not Subscribed,1,Victoria
+26,admin.,single,university.degree,no,yes,no,telephone,May,Monday,231,3,nonexistent,Not Subscribed,1,Western Australia
+33,admin.,married,high.school,no,no,no,telephone,May,Monday,316,3,nonexistent,Not Subscribed,1,Tasmania
+35,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Monday,240,2,nonexistent,Not Subscribed,1,Queensland
+36,admin.,married,high.school,no,no,no,telephone,May,Monday,669,3,nonexistent,Not Subscribed,1,Western Australia
+29,services,single,high.school,no,yes,no,telephone,May,Monday,425,2,nonexistent,Not Subscribed,1,New South Wales
+36,blue-collar,married,basic.9y,no,yes,no,telephone,May,Monday,121,2,nonexistent,Not Subscribed,1,New South Wales
+35,management,married,high.school,no,yes,no,telephone,May,Monday,174,5,nonexistent,Not Subscribed,1,South Australia
+50,self-employed,single,university.degree,no,no,yes,telephone,May,Monday,88,5,nonexistent,Not Subscribed,1,Queensland
+46,services,married,high.school,unknown,yes,no,telephone,May,Monday,313,3,nonexistent,Not Subscribed,1,Queensland
+49,entrepreneur,married,high.school,no,yes,no,telephone,May,Monday,135,4,nonexistent,Not Subscribed,1,Victoria
+42,technician,single,professional.course,unknown,yes,no,telephone,May,Monday,152,2,nonexistent,Not Subscribed,1,Queensland
+36,blue-collar,single,high.school,no,yes,yes,telephone,May,Monday,402,3,nonexistent,Not Subscribed,1,New South Wales
+55,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Monday,221,2,nonexistent,Not Subscribed,1,Victoria
+41,management,married,university.degree,unknown,no,no,telephone,May,Monday,213,2,nonexistent,Not Subscribed,1,South Australia
+57,management,married,professional.course,unknown,yes,no,telephone,May,Monday,144,3,nonexistent,Not Subscribed,1,Victoria
+32,services,single,high.school,no,yes,no,telephone,May,Monday,158,3,nonexistent,Not Subscribed,1,Victoria
+49,admin.,married,basic.9y,no,no,no,telephone,May,Monday,220,3,nonexistent,Not Subscribed,1,Queensland
+57,unknown,married,unknown,unknown,yes,no,telephone,May,Monday,325,2,nonexistent,Not Subscribed,1,New South Wales
+58,blue-collar,divorced,basic.4y,no,yes,no,telephone,May,Monday,254,2,nonexistent,Not Subscribed,1,Victoria
+52,technician,married,high.school,no,yes,no,telephone,May,Monday,503,2,nonexistent,Not Subscribed,1,New South Wales
+50,services,divorced,professional.course,no,no,no,telephone,May,Monday,680,2,nonexistent,Not Subscribed,1,New South Wales
+41,blue-collar,single,basic.9y,unknown,yes,no,telephone,May,Monday,421,4,nonexistent,Not Subscribed,1,New South Wales
+33,entrepreneur,married,university.degree,no,yes,no,telephone,May,Monday,130,3,nonexistent,Not Subscribed,1,Queensland
+57,blue-collar,married,basic.4y,no,no,no,telephone,May,Monday,164,2,nonexistent,Not Subscribed,1,Queensland
+48,blue-collar,married,basic.6y,unknown,no,no,telephone,May,Monday,174,3,nonexistent,Not Subscribed,1,Victoria
+55,technician,married,professional.course,no,no,no,telephone,May,Monday,113,2,nonexistent,Not Subscribed,1,Victoria
+38,management,married,university.degree,no,no,no,telephone,May,Monday,195,2,nonexistent,Not Subscribed,1,Victoria
+38,services,married,high.school,no,yes,no,telephone,May,Monday,347,3,nonexistent,Not Subscribed,1,New South Wales
+53,admin.,married,university.degree,no,yes,no,telephone,May,Monday,208,2,nonexistent,Not Subscribed,1,Victoria
+43,unemployed,single,university.degree,no,no,no,telephone,May,Monday,404,4,nonexistent,Not Subscribed,1,New South Wales
+36,blue-collar,single,high.school,no,no,no,telephone,May,Monday,396,2,nonexistent,Not Subscribed,1,New South Wales
+32,blue-collar,married,basic.9y,no,no,no,telephone,May,Monday,98,2,nonexistent,Not Subscribed,1,Victoria
+33,services,married,basic.4y,no,no,no,telephone,May,Monday,229,3,nonexistent,Not Subscribed,1,Queensland
+58,entrepreneur,married,basic.4y,no,yes,no,telephone,May,Monday,350,2,nonexistent,Not Subscribed,1,Queensland
+40,unemployed,divorced,high.school,unknown,no,no,telephone,May,Tuesday,88,3,nonexistent,Not Subscribed,1,New South Wales
+57,management,married,university.degree,no,yes,no,telephone,May,Tuesday,379,2,nonexistent,Not Subscribed,1,Western Australia
+45,technician,married,high.school,no,yes,no,telephone,May,Tuesday,168,3,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,190,3,nonexistent,Not Subscribed,1,New South Wales
+46,admin.,married,university.degree,no,yes,no,telephone,May,Tuesday,158,1,nonexistent,Not Subscribed,1,Queensland
+36,technician,married,university.degree,no,no,no,telephone,May,Tuesday,210,1,nonexistent,Not Subscribed,1,Queensland
+41,self-employed,married,high.school,no,yes,no,telephone,May,Tuesday,102,1,nonexistent,Not Subscribed,1,New South Wales
+57,admin.,divorced,basic.9y,no,no,no,telephone,May,Tuesday,306,1,nonexistent,Not Subscribed,1,Victoria
+49,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Tuesday,64,1,nonexistent,Not Subscribed,1,Queensland
+56,management,divorced,high.school,no,no,no,telephone,May,Tuesday,218,1,nonexistent,Not Subscribed,1,Victoria
+37,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,77,1,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,married,basic.9y,no,no,yes,telephone,May,Tuesday,54,1,nonexistent,Not Subscribed,1,Western Australia
+46,admin.,single,high.school,no,yes,no,telephone,May,Tuesday,344,1,nonexistent,Not Subscribed,1,New South Wales
+22,blue-collar,single,basic.9y,no,yes,no,telephone,May,Tuesday,195,1,nonexistent,Not Subscribed,1,New South Wales
+43,services,married,high.school,no,no,no,telephone,May,Tuesday,202,1,nonexistent,Not Subscribed,1,Victoria
+49,blue-collar,married,unknown,no,no,no,telephone,May,Tuesday,286,1,nonexistent,Not Subscribed,1,Victoria
+41,technician,married,basic.6y,no,yes,no,telephone,May,Tuesday,278,1,nonexistent,Not Subscribed,1,South Australia
+38,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,189,1,nonexistent,Not Subscribed,1,Western Australia
+33,admin.,married,basic.9y,no,no,no,telephone,May,Tuesday,83,1,nonexistent,Not Subscribed,1,New South Wales
+49,admin.,married,university.degree,no,yes,yes,telephone,May,Tuesday,18,1,nonexistent,Not Subscribed,1,Queensland
+30,blue-collar,single,unknown,no,no,no,telephone,May,Tuesday,184,2,nonexistent,Not Subscribed,1,New South Wales
+33,admin.,married,basic.9y,no,yes,no,telephone,May,Tuesday,235,1,nonexistent,Not Subscribed,1,Victoria
+34,management,single,university.degree,no,no,no,telephone,May,Tuesday,290,1,nonexistent,Not Subscribed,1,New South Wales
+30,student,single,unknown,unknown,no,no,telephone,May,Tuesday,133,1,nonexistent,Not Subscribed,1,Victoria
+59,management,married,basic.4y,unknown,yes,yes,telephone,May,Tuesday,318,1,nonexistent,Not Subscribed,1,New South Wales
+59,management,married,basic.4y,unknown,unknown,unknown,telephone,May,Tuesday,437,1,nonexistent,Not Subscribed,1,Victoria
+41,self-employed,married,university.degree,no,no,no,telephone,May,Tuesday,402,1,nonexistent,Not Subscribed,1,Queensland
+48,housemaid,married,basic.6y,unknown,yes,yes,telephone,May,Tuesday,501,4,nonexistent,Not Subscribed,1,New South Wales
+28,unknown,single,unknown,unknown,yes,yes,telephone,May,Tuesday,1201,1,nonexistent,Subscribed,0,Victoria
+44,services,married,high.school,no,yes,no,telephone,May,Tuesday,1030,1,nonexistent,Subscribed,0,Queensland
+59,retired,unknown,university.degree,unknown,no,no,telephone,May,Tuesday,253,1,nonexistent,Not Subscribed,1,Victoria
+50,management,married,high.school,unknown,no,no,telephone,May,Tuesday,149,1,nonexistent,Not Subscribed,1,Victoria
+35,admin.,married,university.degree,no,no,no,telephone,May,Tuesday,144,1,nonexistent,Not Subscribed,1,Western Australia
+42,admin.,married,high.school,no,no,no,telephone,May,Tuesday,69,1,nonexistent,Not Subscribed,1,New South Wales
+45,admin.,married,basic.9y,no,no,no,telephone,May,Tuesday,243,1,nonexistent,Not Subscribed,1,Queensland
+36,technician,married,professional.course,no,no,no,telephone,May,Tuesday,769,2,nonexistent,Not Subscribed,1,New South Wales
+56,services,married,high.school,unknown,no,no,telephone,May,Tuesday,135,3,nonexistent,Not Subscribed,1,Queensland
+29,blue-collar,divorced,basic.4y,no,no,no,telephone,May,Tuesday,231,1,nonexistent,Not Subscribed,1,Tasmania
+41,self-employed,married,university.degree,no,yes,yes,telephone,May,Tuesday,442,2,nonexistent,Not Subscribed,1,Northern Territory
+42,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Tuesday,199,1,nonexistent,Not Subscribed,1,Western Australia
+52,services,single,high.school,no,no,no,telephone,May,Tuesday,455,1,nonexistent,Not Subscribed,1,Western Australia
+48,services,married,high.school,unknown,unknown,unknown,telephone,May,Tuesday,152,1,nonexistent,Not Subscribed,1,Queensland
+31,blue-collar,married,high.school,unknown,yes,no,telephone,May,Tuesday,124,1,nonexistent,Not Subscribed,1,New South Wales
+43,unemployed,married,university.degree,unknown,yes,no,telephone,May,Tuesday,424,1,nonexistent,Not Subscribed,1,Victoria
+36,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Tuesday,43,1,nonexistent,Not Subscribed,1,New South Wales
+42,entrepreneur,married,university.degree,no,yes,no,telephone,May,Tuesday,154,1,nonexistent,Not Subscribed,1,New South Wales
+52,services,divorced,basic.6y,no,no,no,telephone,May,Tuesday,393,1,nonexistent,Not Subscribed,1,Western Australia
+39,admin.,married,high.school,no,yes,no,telephone,May,Tuesday,203,2,nonexistent,Not Subscribed,1,Tasmania
+36,services,married,high.school,no,no,yes,telephone,May,Tuesday,140,2,nonexistent,Not Subscribed,1,Victoria
+42,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Tuesday,326,1,nonexistent,Not Subscribed,1,New South Wales
+41,admin.,married,high.school,no,no,no,telephone,May,Tuesday,483,1,nonexistent,Not Subscribed,1,Victoria
+55,technician,married,basic.4y,no,no,yes,telephone,May,Tuesday,259,1,nonexistent,Not Subscribed,1,New South Wales
+30,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,227,1,nonexistent,Not Subscribed,1,Queensland
+57,retired,unknown,basic.4y,no,no,no,telephone,May,Tuesday,673,1,nonexistent,Not Subscribed,1,Queensland
+45,entrepreneur,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,576,1,nonexistent,Not Subscribed,1,New South Wales
+51,blue-collar,married,basic.4y,unknown,yes,yes,telephone,May,Tuesday,180,2,nonexistent,Not Subscribed,1,Tasmania
+39,self-employed,single,basic.9y,unknown,yes,yes,telephone,May,Tuesday,90,1,nonexistent,Not Subscribed,1,Victoria
+47,admin.,married,high.school,unknown,no,no,telephone,May,Tuesday,505,1,nonexistent,Not Subscribed,1,New South Wales
+27,services,married,high.school,no,yes,no,telephone,May,Tuesday,245,1,nonexistent,Not Subscribed,1,Victoria
+34,technician,single,university.degree,no,yes,no,telephone,May,Tuesday,186,1,nonexistent,Not Subscribed,1,Western Australia
+57,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,208,1,nonexistent,Not Subscribed,1,New South Wales
+43,entrepreneur,married,basic.4y,no,no,no,telephone,May,Tuesday,623,1,nonexistent,Not Subscribed,1,Victoria
+49,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Tuesday,180,1,nonexistent,Not Subscribed,1,Queensland
+39,management,married,university.degree,unknown,no,no,telephone,May,Tuesday,496,3,nonexistent,Not Subscribed,1,Victoria
+38,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,118,1,nonexistent,Not Subscribed,1,Queensland
+49,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,102,2,nonexistent,Not Subscribed,1,Queensland
+58,management,married,basic.6y,no,no,no,telephone,May,Tuesday,342,1,nonexistent,Not Subscribed,1,New South Wales
+43,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,225,1,nonexistent,Not Subscribed,1,Western Australia
+50,unknown,married,unknown,unknown,yes,no,telephone,May,Tuesday,185,3,nonexistent,Not Subscribed,1,New South Wales
+31,services,married,high.school,unknown,no,no,telephone,May,Tuesday,276,1,nonexistent,Not Subscribed,1,Queensland
+43,self-employed,divorced,university.degree,no,no,no,telephone,May,Tuesday,87,1,nonexistent,Not Subscribed,1,Victoria
+43,self-employed,married,basic.9y,unknown,no,no,telephone,May,Tuesday,744,1,nonexistent,Not Subscribed,1,Victoria
+30,self-employed,single,university.degree,no,yes,no,telephone,May,Tuesday,262,1,nonexistent,Not Subscribed,1,Queensland
+27,services,single,professional.course,no,yes,yes,telephone,May,Tuesday,271,1,nonexistent,Not Subscribed,1,Queensland
+51,services,married,unknown,unknown,no,no,telephone,May,Tuesday,141,1,nonexistent,Not Subscribed,1,Queensland
+37,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,198,2,nonexistent,Not Subscribed,1,New South Wales
+46,housemaid,married,basic.9y,no,yes,no,telephone,May,Tuesday,150,1,nonexistent,Not Subscribed,1,Queensland
+35,blue-collar,married,professional.course,no,no,no,telephone,May,Tuesday,241,1,nonexistent,Not Subscribed,1,New South Wales
+47,admin.,divorced,university.degree,no,no,no,telephone,May,Tuesday,196,1,nonexistent,Not Subscribed,1,New South Wales
+46,management,married,unknown,no,yes,no,telephone,May,Tuesday,149,1,nonexistent,Not Subscribed,1,New South Wales
+40,technician,married,professional.course,unknown,no,yes,telephone,May,Tuesday,264,1,nonexistent,Not Subscribed,1,Western Australia
+26,housemaid,married,university.degree,no,no,no,telephone,May,Tuesday,246,1,nonexistent,Not Subscribed,1,Western Australia
+32,blue-collar,divorced,basic.9y,unknown,no,no,telephone,May,Tuesday,309,2,nonexistent,Not Subscribed,1,New South Wales
+45,management,married,university.degree,no,yes,no,telephone,May,Tuesday,140,1,nonexistent,Not Subscribed,1,Queensland
+34,admin.,married,basic.9y,no,no,no,telephone,May,Tuesday,175,1,nonexistent,Not Subscribed,1,Queensland
+47,blue-collar,married,unknown,unknown,no,no,telephone,May,Tuesday,136,1,nonexistent,Not Subscribed,1,New South Wales
+42,technician,married,professional.course,no,no,no,telephone,May,Tuesday,1623,1,nonexistent,Subscribed,0,Victoria
+57,technician,married,basic.4y,unknown,no,yes,telephone,May,Tuesday,50,1,nonexistent,Not Subscribed,1,New South Wales
+57,technician,married,basic.4y,unknown,no,no,telephone,May,Tuesday,101,1,nonexistent,Not Subscribed,1,South Australia
+38,blue-collar,married,basic.4y,no,no,yes,telephone,May,Tuesday,144,1,nonexistent,Not Subscribed,1,Queensland
+57,technician,married,basic.4y,unknown,no,no,telephone,May,Tuesday,238,1,nonexistent,Not Subscribed,1,South Australia
+28,student,single,basic.9y,unknown,yes,no,telephone,May,Tuesday,354,1,nonexistent,Not Subscribed,1,Victoria
+60,management,married,university.degree,no,no,no,telephone,May,Tuesday,451,2,nonexistent,Not Subscribed,1,Victoria
+48,admin.,married,university.degree,no,yes,no,telephone,May,Tuesday,159,1,nonexistent,Not Subscribed,1,Victoria
+47,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,170,1,nonexistent,Not Subscribed,1,New South Wales
+40,admin.,married,high.school,no,no,no,telephone,May,Tuesday,243,1,nonexistent,Not Subscribed,1,Victoria
+51,management,married,professional.course,unknown,yes,no,telephone,May,Tuesday,141,2,nonexistent,Not Subscribed,1,Queensland
+48,unemployed,single,basic.4y,no,yes,no,telephone,May,Tuesday,112,1,nonexistent,Not Subscribed,1,Queensland
+54,housemaid,married,basic.4y,no,no,no,telephone,May,Tuesday,262,2,nonexistent,Not Subscribed,1,Western Australia
+40,blue-collar,married,basic.6y,no,no,yes,telephone,May,Tuesday,53,1,nonexistent,Not Subscribed,1,New South Wales
+44,admin.,single,basic.9y,unknown,no,no,telephone,May,Tuesday,134,1,nonexistent,Not Subscribed,1,Victoria
+42,technician,divorced,high.school,no,no,no,telephone,May,Tuesday,204,4,nonexistent,Not Subscribed,1,New South Wales
+52,self-employed,married,university.degree,no,yes,no,telephone,May,Tuesday,678,1,nonexistent,Not Subscribed,1,Victoria
+31,blue-collar,single,basic.9y,no,yes,no,telephone,May,Tuesday,182,1,nonexistent,Not Subscribed,1,New South Wales
+32,services,married,high.school,no,no,no,telephone,May,Tuesday,162,1,nonexistent,Not Subscribed,1,Queensland
+44,admin.,married,high.school,no,yes,yes,telephone,May,Tuesday,177,1,nonexistent,Not Subscribed,1,Queensland
+39,management,married,basic.6y,unknown,no,no,telephone,May,Tuesday,27,1,nonexistent,Not Subscribed,1,Tasmania
+57,management,married,professional.course,unknown,yes,no,telephone,May,Tuesday,699,3,nonexistent,Not Subscribed,1,Queensland
+52,admin.,married,basic.4y,no,yes,no,telephone,May,Tuesday,358,1,nonexistent,Not Subscribed,1,New South Wales
+42,management,married,university.degree,no,no,no,telephone,May,Tuesday,1677,1,nonexistent,Subscribed,0,New South Wales
+42,technician,single,professional.course,unknown,unknown,unknown,telephone,May,Tuesday,529,1,nonexistent,Not Subscribed,1,New South Wales
+43,management,married,professional.course,no,yes,no,telephone,May,Tuesday,310,1,nonexistent,Not Subscribed,1,New South Wales
+31,admin.,divorced,high.school,no,no,no,telephone,May,Tuesday,47,1,nonexistent,Not Subscribed,1,South Australia
+29,admin.,married,university.degree,unknown,yes,no,telephone,May,Tuesday,379,1,nonexistent,Not Subscribed,1,New South Wales
+57,blue-collar,divorced,basic.4y,no,no,no,telephone,May,Tuesday,30,2,nonexistent,Not Subscribed,1,New South Wales
+44,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Tuesday,472,1,nonexistent,Not Subscribed,1,Queensland
+59,unknown,married,unknown,unknown,no,no,telephone,May,Tuesday,113,1,nonexistent,Not Subscribed,1,New South Wales
+39,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Tuesday,114,1,nonexistent,Not Subscribed,1,Victoria
+57,retired,married,university.degree,no,no,no,telephone,May,Tuesday,116,1,nonexistent,Not Subscribed,1,New South Wales
+41,management,married,unknown,unknown,no,no,telephone,May,Tuesday,448,1,nonexistent,Not Subscribed,1,Queensland
+37,technician,single,high.school,unknown,no,yes,telephone,May,Tuesday,264,1,nonexistent,Not Subscribed,1,Queensland
+38,services,married,high.school,no,yes,no,telephone,May,Tuesday,169,1,nonexistent,Not Subscribed,1,New South Wales
+42,retired,married,basic.4y,no,no,no,telephone,May,Tuesday,145,1,nonexistent,Not Subscribed,1,Queensland
+49,unknown,married,unknown,unknown,yes,no,telephone,May,Tuesday,288,1,nonexistent,Not Subscribed,1,Victoria
+54,management,married,basic.6y,unknown,yes,yes,telephone,May,Tuesday,381,1,nonexistent,Not Subscribed,1,Victoria
+36,admin.,married,university.degree,no,unknown,unknown,telephone,May,Tuesday,176,2,nonexistent,Not Subscribed,1,Victoria
+32,admin.,single,university.degree,unknown,no,no,telephone,May,Tuesday,215,1,nonexistent,Not Subscribed,1,Queensland
+35,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,278,1,nonexistent,Not Subscribed,1,Queensland
+45,housemaid,married,professional.course,unknown,no,no,telephone,May,Tuesday,188,2,nonexistent,Not Subscribed,1,New South Wales
+56,technician,married,unknown,no,yes,no,telephone,May,Tuesday,174,2,nonexistent,Not Subscribed,1,New South Wales
+34,technician,married,university.degree,no,yes,no,telephone,May,Tuesday,226,2,nonexistent,Not Subscribed,1,New South Wales
+41,unemployed,married,basic.9y,unknown,no,no,telephone,May,Tuesday,111,2,nonexistent,Not Subscribed,1,Western Australia
+41,services,married,basic.9y,no,no,no,telephone,May,Tuesday,157,2,nonexistent,Not Subscribed,1,Queensland
+36,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Tuesday,46,1,nonexistent,Not Subscribed,1,Western Australia
+32,admin.,single,university.degree,unknown,unknown,unknown,telephone,May,Tuesday,49,1,nonexistent,Not Subscribed,1,Queensland
+31,services,married,high.school,unknown,unknown,unknown,telephone,May,Tuesday,374,1,nonexistent,Not Subscribed,1,New South Wales
+38,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,349,1,nonexistent,Not Subscribed,1,Victoria
+35,admin.,divorced,university.degree,unknown,yes,no,telephone,May,Tuesday,325,1,nonexistent,Not Subscribed,1,Tasmania
+53,admin.,married,professional.course,no,yes,no,telephone,May,Tuesday,233,2,nonexistent,Not Subscribed,1,Western Australia
+51,admin.,married,basic.6y,unknown,yes,no,telephone,May,Tuesday,531,1,nonexistent,Not Subscribed,1,Victoria
+56,entrepreneur,married,university.degree,unknown,no,no,telephone,May,Tuesday,153,1,nonexistent,Not Subscribed,1,New South Wales
+33,admin.,married,basic.9y,no,unknown,unknown,telephone,May,Tuesday,80,1,nonexistent,Not Subscribed,1,Queensland
+33,admin.,married,basic.9y,no,no,no,telephone,May,Tuesday,198,1,nonexistent,Not Subscribed,1,New South Wales
+51,services,divorced,high.school,unknown,yes,no,telephone,May,Tuesday,568,1,nonexistent,Not Subscribed,1,South Australia
+39,services,married,high.school,unknown,yes,no,telephone,May,Tuesday,918,1,nonexistent,Subscribed,0,Victoria
+45,entrepreneur,married,university.degree,no,no,no,telephone,May,Tuesday,82,1,nonexistent,Not Subscribed,1,New South Wales
+40,technician,single,university.degree,no,no,no,telephone,May,Tuesday,198,3,nonexistent,Not Subscribed,1,Victoria
+60,unknown,single,unknown,unknown,yes,no,telephone,May,Tuesday,211,1,nonexistent,Not Subscribed,1,New South Wales
+33,technician,married,university.degree,no,yes,no,telephone,May,Tuesday,120,1,nonexistent,Not Subscribed,1,New South Wales
+47,blue-collar,married,high.school,unknown,yes,no,telephone,May,Tuesday,269,1,nonexistent,Not Subscribed,1,New South Wales
+48,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,128,1,nonexistent,Not Subscribed,1,Victoria
+43,entrepreneur,married,high.school,no,no,no,telephone,May,Tuesday,166,2,nonexistent,Not Subscribed,1,South Australia
+37,management,married,university.degree,no,yes,no,telephone,May,Tuesday,211,1,nonexistent,Not Subscribed,1,Queensland
+50,services,married,basic.9y,no,yes,yes,telephone,May,Tuesday,369,1,nonexistent,Not Subscribed,1,Victoria
+59,entrepreneur,married,high.school,no,yes,no,telephone,May,Tuesday,91,1,nonexistent,Not Subscribed,1,Queensland
+32,technician,married,unknown,unknown,yes,no,telephone,May,Tuesday,267,2,nonexistent,Not Subscribed,1,New South Wales
+42,housemaid,single,basic.4y,unknown,yes,no,telephone,May,Tuesday,198,1,nonexistent,Not Subscribed,1,Victoria
+52,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,371,2,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,unknown,unknown,no,no,telephone,May,Tuesday,288,2,nonexistent,Not Subscribed,1,Victoria
+42,admin.,married,unknown,no,no,no,telephone,May,Tuesday,221,1,nonexistent,Not Subscribed,1,Tasmania
+40,management,married,basic.9y,unknown,unknown,unknown,telephone,May,Tuesday,427,1,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,310,1,nonexistent,Not Subscribed,1,Queensland
+39,blue-collar,married,basic.6y,no,yes,no,telephone,May,Tuesday,158,1,nonexistent,Not Subscribed,1,New South Wales
+39,blue-collar,married,basic.6y,no,no,no,telephone,May,Tuesday,198,1,nonexistent,Not Subscribed,1,New South Wales
+38,admin.,married,high.school,no,no,no,telephone,May,Tuesday,145,1,nonexistent,Not Subscribed,1,Queensland
+47,admin.,single,unknown,unknown,yes,no,telephone,May,Tuesday,247,1,nonexistent,Not Subscribed,1,Tasmania
+30,services,single,high.school,no,no,no,telephone,May,Tuesday,102,1,nonexistent,Not Subscribed,1,Victoria
+38,admin.,divorced,high.school,no,yes,yes,telephone,May,Tuesday,179,2,nonexistent,Not Subscribed,1,New South Wales
+39,technician,divorced,university.degree,no,no,no,telephone,May,Tuesday,73,1,nonexistent,Not Subscribed,1,Queensland
+44,admin.,married,high.school,no,no,no,telephone,May,Tuesday,263,2,nonexistent,Not Subscribed,1,Victoria
+36,admin.,married,high.school,no,no,no,telephone,May,Tuesday,342,2,nonexistent,Not Subscribed,1,Tasmania
+41,services,married,high.school,unknown,yes,yes,telephone,May,Tuesday,41,1,nonexistent,Not Subscribed,1,Western Australia
+41,blue-collar,married,basic.6y,no,no,no,telephone,May,Tuesday,13,1,nonexistent,Not Subscribed,1,Victoria
+35,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,79,2,nonexistent,Not Subscribed,1,New South Wales
+41,technician,married,high.school,no,no,no,telephone,May,Tuesday,358,1,nonexistent,Not Subscribed,1,New South Wales
+36,services,married,high.school,unknown,no,no,telephone,May,Tuesday,162,1,nonexistent,Not Subscribed,1,Queensland
+35,admin.,single,high.school,no,yes,yes,telephone,May,Tuesday,150,1,nonexistent,Not Subscribed,1,New South Wales
+33,blue-collar,single,basic.4y,unknown,no,no,telephone,May,Tuesday,26,1,nonexistent,Not Subscribed,1,Victoria
+38,admin.,single,basic.6y,unknown,no,no,telephone,May,Tuesday,250,1,nonexistent,Not Subscribed,1,Western Australia
+33,self-employed,married,university.degree,no,no,no,telephone,May,Tuesday,792,1,nonexistent,Not Subscribed,1,New South Wales
+55,self-employed,married,unknown,unknown,no,no,telephone,May,Tuesday,146,1,nonexistent,Not Subscribed,1,Victoria
+36,blue-collar,single,basic.9y,unknown,no,no,telephone,May,Tuesday,440,1,nonexistent,Not Subscribed,1,Queensland
+57,technician,married,professional.course,unknown,no,yes,telephone,May,Tuesday,289,1,nonexistent,Not Subscribed,1,New South Wales
+32,entrepreneur,single,university.degree,no,yes,no,telephone,May,Tuesday,242,2,nonexistent,Not Subscribed,1,New South Wales
+30,self-employed,single,high.school,no,yes,no,telephone,May,Tuesday,123,1,nonexistent,Not Subscribed,1,South Australia
+43,admin.,married,professional.course,no,yes,yes,telephone,May,Tuesday,161,2,nonexistent,Not Subscribed,1,Queensland
+46,admin.,married,university.degree,no,no,no,telephone,May,Tuesday,268,2,nonexistent,Not Subscribed,1,Queensland
+35,admin.,divorced,high.school,no,no,yes,telephone,May,Tuesday,259,2,nonexistent,Not Subscribed,1,New South Wales
+34,admin.,single,university.degree,no,yes,yes,telephone,May,Tuesday,26,1,nonexistent,Not Subscribed,1,Western Australia
+50,blue-collar,married,basic.4y,unknown,unknown,unknown,telephone,May,Tuesday,153,1,nonexistent,Not Subscribed,1,Queensland
+39,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,424,2,nonexistent,Not Subscribed,1,Queensland
+39,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Tuesday,375,1,nonexistent,Not Subscribed,1,South Australia
+42,entrepreneur,married,basic.6y,no,no,no,telephone,May,Tuesday,179,2,nonexistent,Not Subscribed,1,Queensland
+57,retired,married,university.degree,no,yes,no,telephone,May,Tuesday,383,1,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Tuesday,440,1,nonexistent,Not Subscribed,1,Queensland
+40,technician,married,basic.4y,no,no,yes,telephone,May,Tuesday,195,1,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,high.school,no,no,yes,telephone,May,Tuesday,1297,3,nonexistent,Subscribed,0,New South Wales
+40,technician,married,basic.4y,no,no,no,telephone,May,Tuesday,217,1,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,single,basic.4y,unknown,no,no,telephone,May,Tuesday,87,1,nonexistent,Not Subscribed,1,Queensland
+39,blue-collar,married,basic.6y,unknown,yes,yes,telephone,May,Tuesday,427,1,nonexistent,Not Subscribed,1,Queensland
+41,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,189,1,nonexistent,Not Subscribed,1,Victoria
+39,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Tuesday,502,1,nonexistent,Not Subscribed,1,Victoria
+41,blue-collar,married,basic.4y,no,yes,yes,telephone,May,Tuesday,260,1,nonexistent,Not Subscribed,1,Victoria
+45,admin.,married,university.degree,unknown,no,no,telephone,May,Tuesday,209,1,nonexistent,Not Subscribed,1,New South Wales
+35,admin.,divorced,university.degree,no,unknown,unknown,telephone,May,Tuesday,179,1,nonexistent,Not Subscribed,1,Queensland
+35,admin.,married,basic.6y,no,yes,no,telephone,May,Tuesday,179,1,nonexistent,Not Subscribed,1,Victoria
+49,blue-collar,married,high.school,unknown,no,no,telephone,May,Tuesday,69,1,nonexistent,Not Subscribed,1,South Australia
+36,technician,married,unknown,no,no,no,telephone,May,Tuesday,105,2,nonexistent,Not Subscribed,1,South Australia
+23,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,266,3,nonexistent,Not Subscribed,1,Victoria
+43,unemployed,married,university.degree,unknown,unknown,unknown,telephone,May,Tuesday,87,2,nonexistent,Not Subscribed,1,Victoria
+49,entrepreneur,married,professional.course,no,unknown,unknown,telephone,May,Tuesday,524,2,nonexistent,Not Subscribed,1,Queensland
+36,technician,married,professional.course,no,unknown,unknown,telephone,May,Tuesday,155,2,nonexistent,Not Subscribed,1,New South Wales
+51,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Tuesday,162,2,nonexistent,Not Subscribed,1,New South Wales
+56,retired,married,basic.4y,unknown,yes,yes,telephone,May,Tuesday,316,4,nonexistent,Not Subscribed,1,New South Wales
+45,housemaid,married,high.school,no,no,no,telephone,May,Tuesday,352,2,nonexistent,Not Subscribed,1,Queensland
+42,admin.,married,high.school,no,no,no,telephone,May,Tuesday,695,3,nonexistent,Not Subscribed,1,Northern Territory
+41,admin.,divorced,high.school,no,no,no,telephone,May,Tuesday,76,4,nonexistent,Not Subscribed,1,South Australia
+32,services,married,high.school,unknown,no,yes,telephone,May,Tuesday,535,2,nonexistent,Not Subscribed,1,Victoria
+46,management,married,university.degree,no,no,no,telephone,May,Tuesday,310,2,nonexistent,Not Subscribed,1,South Australia
+37,blue-collar,married,unknown,no,no,no,telephone,May,Tuesday,390,3,nonexistent,Not Subscribed,1,Tasmania
+53,management,married,university.degree,unknown,no,no,telephone,May,Tuesday,369,1,nonexistent,Not Subscribed,1,Queensland
+30,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,112,2,nonexistent,Not Subscribed,1,Victoria
+45,unknown,married,unknown,unknown,no,no,telephone,May,Tuesday,79,1,nonexistent,Not Subscribed,1,Victoria
+24,technician,single,professional.course,no,no,yes,telephone,May,Tuesday,140,2,nonexistent,Not Subscribed,1,New South Wales
+45,unknown,married,unknown,unknown,no,no,telephone,May,Tuesday,315,1,nonexistent,Not Subscribed,1,New South Wales
+34,admin.,single,university.degree,no,no,yes,telephone,May,Tuesday,262,2,nonexistent,Not Subscribed,1,South Australia
+41,management,married,university.degree,unknown,no,no,telephone,May,Tuesday,174,2,nonexistent,Not Subscribed,1,Victoria
+59,blue-collar,married,basic.4y,no,yes,no,telephone,May,Tuesday,424,2,nonexistent,Not Subscribed,1,Victoria
+45,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Tuesday,135,1,nonexistent,Not Subscribed,1,Victoria
+54,blue-collar,married,basic.6y,unknown,no,no,telephone,May,Tuesday,36,5,nonexistent,Not Subscribed,1,Victoria
+32,technician,married,professional.course,no,no,no,telephone,May,Tuesday,1906,3,nonexistent,Not Subscribed,1,Tasmania
+33,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,219,2,nonexistent,Not Subscribed,1,Victoria
+32,admin.,married,university.degree,no,no,no,telephone,May,Tuesday,135,1,nonexistent,Not Subscribed,1,Queensland
+34,services,single,high.school,no,unknown,unknown,telephone,May,Tuesday,147,2,nonexistent,Not Subscribed,1,Victoria
+46,management,married,university.degree,no,no,no,telephone,May,Tuesday,407,2,nonexistent,Not Subscribed,1,New South Wales
+57,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,402,4,nonexistent,Not Subscribed,1,Western Australia
+42,technician,married,basic.9y,no,no,no,telephone,May,Tuesday,209,1,nonexistent,Not Subscribed,1,Queensland
+48,admin.,married,professional.course,no,yes,no,telephone,May,Tuesday,92,2,nonexistent,Not Subscribed,1,Victoria
+58,admin.,divorced,university.degree,unknown,yes,no,telephone,May,Tuesday,208,1,nonexistent,Not Subscribed,1,New South Wales
+34,services,married,high.school,no,no,no,telephone,May,Tuesday,193,1,nonexistent,Not Subscribed,1,Queensland
+32,admin.,single,university.degree,no,yes,yes,telephone,May,Tuesday,65,1,nonexistent,Not Subscribed,1,New South Wales
+48,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,284,2,nonexistent,Not Subscribed,1,Victoria
+47,blue-collar,married,basic.9y,no,no,no,telephone,May,Tuesday,285,1,nonexistent,Not Subscribed,1,South Australia
+31,services,married,high.school,unknown,no,no,telephone,May,Tuesday,231,1,nonexistent,Not Subscribed,1,New South Wales
+32,admin.,single,university.degree,no,yes,no,telephone,May,Tuesday,278,1,nonexistent,Not Subscribed,1,Victoria
+32,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,389,1,nonexistent,Not Subscribed,1,Tasmania
+36,services,married,high.school,no,no,no,telephone,May,Tuesday,158,1,nonexistent,Not Subscribed,1,Victoria
+53,blue-collar,married,basic.4y,unknown,no,yes,telephone,May,Tuesday,78,2,nonexistent,Not Subscribed,1,Victoria
+37,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Tuesday,258,5,nonexistent,Not Subscribed,1,Victoria
+50,services,married,high.school,no,no,no,telephone,May,Tuesday,87,1,nonexistent,Not Subscribed,1,Queensland
+46,blue-collar,married,basic.6y,no,yes,no,telephone,May,Tuesday,147,2,nonexistent,Not Subscribed,1,Queensland
+41,admin.,married,high.school,no,no,no,telephone,May,Tuesday,635,1,nonexistent,Not Subscribed,1,Victoria
+43,blue-collar,single,basic.4y,no,no,no,telephone,May,Tuesday,289,1,nonexistent,Not Subscribed,1,New South Wales
+51,management,married,university.degree,no,yes,no,telephone,May,Tuesday,170,3,nonexistent,Not Subscribed,1,Victoria
+38,admin.,married,university.degree,no,yes,no,telephone,May,Tuesday,802,1,nonexistent,Not Subscribed,1,New South Wales
+41,technician,married,basic.6y,no,yes,no,telephone,May,Tuesday,381,2,nonexistent,Not Subscribed,1,Victoria
+39,services,married,high.school,unknown,no,no,telephone,May,Tuesday,218,4,nonexistent,Not Subscribed,1,Victoria
+52,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,57,2,nonexistent,Not Subscribed,1,Queensland
+37,technician,married,professional.course,no,yes,no,telephone,May,Tuesday,304,2,nonexistent,Not Subscribed,1,Western Australia
+41,admin.,married,basic.9y,no,yes,no,telephone,May,Tuesday,241,3,nonexistent,Not Subscribed,1,Queensland
+46,admin.,divorced,university.degree,no,yes,yes,telephone,May,Tuesday,230,1,nonexistent,Not Subscribed,1,New South Wales
+47,technician,married,professional.course,no,no,no,telephone,May,Tuesday,79,4,nonexistent,Not Subscribed,1,Queensland
+35,technician,married,professional.course,no,no,no,telephone,May,Tuesday,262,3,nonexistent,Not Subscribed,1,Victoria
+38,services,married,high.school,unknown,no,no,telephone,May,Tuesday,392,2,nonexistent,Not Subscribed,1,Victoria
+30,blue-collar,single,unknown,no,yes,yes,telephone,May,Tuesday,201,2,nonexistent,Not Subscribed,1,Victoria
+46,blue-collar,married,basic.9y,no,yes,no,telephone,May,Tuesday,145,1,nonexistent,Not Subscribed,1,Western Australia
+30,technician,married,professional.course,no,no,no,telephone,May,Tuesday,252,1,nonexistent,Not Subscribed,1,Victoria
+35,services,single,basic.4y,no,no,no,telephone,May,Tuesday,329,1,nonexistent,Not Subscribed,1,Queensland
+58,admin.,married,unknown,unknown,yes,no,telephone,May,Tuesday,328,2,nonexistent,Not Subscribed,1,Tasmania
+40,technician,married,professional.course,no,no,no,telephone,May,Tuesday,191,2,nonexistent,Not Subscribed,1,New South Wales
+34,technician,married,university.degree,no,no,no,telephone,May,Tuesday,116,2,nonexistent,Not Subscribed,1,South Australia
+30,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,246,1,nonexistent,Not Subscribed,1,New South Wales
+38,services,married,basic.6y,no,no,no,telephone,May,Tuesday,532,2,nonexistent,Not Subscribed,1,New South Wales
+55,management,single,basic.4y,no,no,no,telephone,May,Tuesday,293,1,nonexistent,Not Subscribed,1,New South Wales
+55,management,married,university.degree,unknown,yes,no,telephone,May,Tuesday,416,3,nonexistent,Not Subscribed,1,New South Wales
+45,technician,single,professional.course,no,yes,no,telephone,May,Tuesday,37,2,nonexistent,Not Subscribed,1,New South Wales
+36,admin.,married,university.degree,no,yes,yes,telephone,May,Tuesday,132,2,nonexistent,Not Subscribed,1,New South Wales
+32,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,530,2,nonexistent,Not Subscribed,1,Western Australia
+35,technician,married,unknown,unknown,yes,no,telephone,May,Tuesday,175,3,nonexistent,Not Subscribed,1,New South Wales
+55,management,divorced,university.degree,no,yes,no,telephone,May,Tuesday,90,5,nonexistent,Not Subscribed,1,Queensland
+49,housemaid,married,basic.4y,unknown,unknown,unknown,telephone,May,Tuesday,524,2,nonexistent,Not Subscribed,1,Victoria
+29,admin.,married,high.school,no,yes,no,telephone,May,Tuesday,29,3,nonexistent,Not Subscribed,1,New South Wales
+34,blue-collar,married,basic.4y,no,yes,no,telephone,May,Tuesday,311,2,nonexistent,Not Subscribed,1,South Australia
+54,retired,married,high.school,unknown,yes,no,telephone,May,Tuesday,412,1,nonexistent,Not Subscribed,1,New South Wales
+36,technician,single,professional.course,no,no,no,telephone,May,Tuesday,211,2,nonexistent,Not Subscribed,1,Victoria
+30,management,single,university.degree,no,yes,no,telephone,May,Tuesday,312,3,nonexistent,Not Subscribed,1,Queensland
+33,housemaid,divorced,university.degree,no,no,no,telephone,May,Tuesday,392,1,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,married,high.school,no,no,no,telephone,May,Tuesday,191,1,nonexistent,Not Subscribed,1,Queensland
+36,technician,married,basic.9y,unknown,yes,no,telephone,May,Tuesday,284,2,nonexistent,Not Subscribed,1,Western Australia
+33,blue-collar,married,high.school,no,no,no,telephone,May,Tuesday,328,1,nonexistent,Not Subscribed,1,New South Wales
+32,housemaid,married,high.school,no,yes,no,telephone,May,Tuesday,100,1,nonexistent,Not Subscribed,1,New South Wales
+32,housemaid,married,high.school,no,no,no,telephone,May,Tuesday,226,1,nonexistent,Not Subscribed,1,South Australia
+50,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,507,1,nonexistent,Not Subscribed,1,Western Australia
+39,blue-collar,married,basic.9y,no,no,yes,telephone,May,Tuesday,333,2,nonexistent,Not Subscribed,1,Queensland
+51,blue-collar,divorced,unknown,unknown,yes,yes,telephone,May,Tuesday,128,2,nonexistent,Not Subscribed,1,Queensland
+33,services,married,high.school,no,no,no,telephone,May,Tuesday,322,2,nonexistent,Not Subscribed,1,New South Wales
+33,services,married,basic.4y,no,no,no,telephone,May,Tuesday,202,4,nonexistent,Not Subscribed,1,New South Wales
+56,management,married,university.degree,unknown,no,yes,telephone,May,Tuesday,92,2,nonexistent,Not Subscribed,1,Queensland
+39,management,divorced,university.degree,unknown,yes,no,telephone,May,Tuesday,205,2,nonexistent,Not Subscribed,1,New South Wales
+33,self-employed,single,university.degree,no,no,no,telephone,May,Tuesday,739,3,nonexistent,Not Subscribed,1,Western Australia
+59,retired,divorced,basic.4y,unknown,no,no,telephone,May,Tuesday,273,2,nonexistent,Not Subscribed,1,Victoria
+42,admin.,single,unknown,no,yes,no,telephone,May,Tuesday,339,3,nonexistent,Not Subscribed,1,New South Wales
+43,services,married,high.school,no,no,yes,telephone,May,Tuesday,262,1,nonexistent,Not Subscribed,1,New South Wales
+35,admin.,married,university.degree,no,unknown,unknown,telephone,May,Tuesday,308,3,nonexistent,Not Subscribed,1,Northern Territory
+46,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Tuesday,467,2,nonexistent,Not Subscribed,1,Victoria
+27,technician,married,basic.9y,no,no,yes,telephone,May,Tuesday,245,2,nonexistent,Not Subscribed,1,Western Australia
+47,admin.,divorced,university.degree,no,yes,no,telephone,May,Tuesday,160,3,nonexistent,Not Subscribed,1,New South Wales
+31,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,189,2,nonexistent,Not Subscribed,1,New South Wales
+32,blue-collar,married,basic.9y,no,yes,no,telephone,May,Tuesday,477,1,nonexistent,Not Subscribed,1,New South Wales
+54,admin.,married,high.school,no,no,no,telephone,May,Tuesday,65,3,nonexistent,Not Subscribed,1,Queensland
+56,management,married,university.degree,unknown,no,no,telephone,May,Tuesday,191,1,nonexistent,Not Subscribed,1,New South Wales
+48,services,single,high.school,unknown,yes,no,telephone,May,Tuesday,196,2,nonexistent,Not Subscribed,1,New South Wales
+44,admin.,married,high.school,no,yes,no,telephone,May,Tuesday,221,2,nonexistent,Not Subscribed,1,Victoria
+46,admin.,married,high.school,no,no,yes,telephone,May,Tuesday,197,2,nonexistent,Not Subscribed,1,Victoria
+45,services,married,high.school,no,yes,no,telephone,May,Tuesday,178,2,nonexistent,Not Subscribed,1,New South Wales
+43,admin.,married,professional.course,no,no,yes,telephone,May,Tuesday,221,2,nonexistent,Not Subscribed,1,New South Wales
+40,admin.,single,high.school,unknown,no,no,telephone,May,Tuesday,64,2,nonexistent,Not Subscribed,1,South Australia
+56,management,married,university.degree,no,yes,no,telephone,May,Tuesday,75,2,nonexistent,Not Subscribed,1,New South Wales
+47,entrepreneur,married,professional.course,no,no,no,telephone,May,Tuesday,400,2,nonexistent,Not Subscribed,1,Tasmania
+39,management,divorced,university.degree,unknown,yes,no,telephone,May,Tuesday,378,3,nonexistent,Not Subscribed,1,Victoria
+48,technician,married,basic.4y,unknown,no,no,telephone,May,Tuesday,118,2,nonexistent,Not Subscribed,1,Western Australia
+45,housemaid,married,professional.course,unknown,yes,no,telephone,May,Tuesday,1597,2,nonexistent,Subscribed,0,New South Wales
+36,self-employed,married,university.degree,no,no,no,telephone,May,Tuesday,346,2,nonexistent,Not Subscribed,1,New South Wales
+49,management,married,professional.course,unknown,yes,no,telephone,May,Tuesday,107,2,nonexistent,Not Subscribed,1,Western Australia
+46,services,married,high.school,no,no,no,telephone,May,Tuesday,60,3,nonexistent,Not Subscribed,1,Queensland
+38,blue-collar,married,basic.9y,no,yes,no,telephone,May,Tuesday,276,2,nonexistent,Not Subscribed,1,Victoria
+50,housemaid,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,176,2,nonexistent,Not Subscribed,1,Victoria
+27,admin.,single,high.school,no,yes,no,telephone,May,Tuesday,390,2,nonexistent,Not Subscribed,1,Western Australia
+40,technician,married,professional.course,unknown,yes,no,telephone,May,Tuesday,251,3,nonexistent,Not Subscribed,1,Queensland
+46,management,married,university.degree,no,yes,no,telephone,May,Tuesday,716,2,nonexistent,Not Subscribed,1,Victoria
+40,admin.,divorced,university.degree,no,yes,no,telephone,May,Tuesday,189,3,nonexistent,Not Subscribed,1,Queensland
+33,management,single,university.degree,no,no,no,telephone,May,Tuesday,125,2,nonexistent,Not Subscribed,1,Victoria
+54,retired,married,high.school,no,yes,no,telephone,May,Tuesday,234,2,nonexistent,Not Subscribed,1,Queensland
+52,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,79,2,nonexistent,Not Subscribed,1,Victoria
+53,admin.,married,university.degree,unknown,yes,no,telephone,May,Tuesday,13,6,nonexistent,Not Subscribed,1,Victoria
+49,services,married,high.school,unknown,no,no,telephone,May,Tuesday,296,3,nonexistent,Not Subscribed,1,New South Wales
+42,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Tuesday,114,2,nonexistent,Not Subscribed,1,Tasmania
+49,housemaid,married,basic.4y,no,no,no,telephone,May,Tuesday,283,3,nonexistent,Not Subscribed,1,New South Wales
+40,entrepreneur,married,basic.9y,no,no,no,telephone,May,Tuesday,109,2,nonexistent,Not Subscribed,1,Queensland
+59,admin.,married,university.degree,unknown,no,no,telephone,May,Tuesday,132,2,nonexistent,Not Subscribed,1,New South Wales
+51,self-employed,married,basic.9y,no,yes,no,telephone,May,Tuesday,144,2,nonexistent,Not Subscribed,1,New South Wales
+57,housemaid,married,basic.6y,unknown,yes,no,telephone,May,Tuesday,121,2,nonexistent,Not Subscribed,1,New South Wales
+38,self-employed,divorced,basic.9y,no,yes,no,telephone,May,Tuesday,95,3,nonexistent,Not Subscribed,1,Victoria
+52,self-employed,married,university.degree,no,no,no,telephone,May,Tuesday,31,3,nonexistent,Not Subscribed,1,New South Wales
+26,unemployed,single,basic.9y,no,yes,no,telephone,May,Tuesday,112,3,nonexistent,Not Subscribed,1,New South Wales
+35,admin.,married,university.degree,no,yes,yes,telephone,May,Tuesday,161,2,nonexistent,Not Subscribed,1,Victoria
+51,admin.,married,university.degree,no,no,no,telephone,May,Tuesday,87,4,nonexistent,Not Subscribed,1,New South Wales
+43,blue-collar,married,basic.4y,unknown,yes,yes,telephone,May,Tuesday,593,2,nonexistent,Not Subscribed,1,New South Wales
+42,admin.,married,high.school,unknown,yes,no,telephone,May,Tuesday,99,2,nonexistent,Not Subscribed,1,Western Australia
+60,retired,divorced,university.degree,unknown,yes,no,telephone,May,Tuesday,198,2,nonexistent,Not Subscribed,1,Queensland
+36,blue-collar,married,basic.9y,no,yes,no,telephone,May,Tuesday,285,2,nonexistent,Not Subscribed,1,New South Wales
+57,management,married,university.degree,unknown,no,no,telephone,May,Tuesday,190,3,nonexistent,Not Subscribed,1,Queensland
+35,student,single,university.degree,unknown,no,no,telephone,May,Tuesday,172,5,nonexistent,Not Subscribed,1,Victoria
+30,admin.,married,university.degree,no,no,no,telephone,May,Tuesday,178,2,nonexistent,Not Subscribed,1,Queensland
+43,services,married,high.school,no,no,no,telephone,May,Tuesday,174,2,nonexistent,Not Subscribed,1,Victoria
+40,technician,married,basic.9y,no,no,no,telephone,May,Tuesday,631,2,nonexistent,Not Subscribed,1,Victoria
+45,technician,married,university.degree,no,no,no,telephone,May,Tuesday,152,3,nonexistent,Not Subscribed,1,New South Wales
+56,retired,married,high.school,no,no,no,telephone,May,Tuesday,176,5,nonexistent,Not Subscribed,1,Queensland
+46,services,married,basic.6y,no,no,no,telephone,May,Tuesday,32,3,nonexistent,Not Subscribed,1,Western Australia
+41,blue-collar,married,basic.4y,no,yes,no,telephone,May,Tuesday,1529,2,nonexistent,Not Subscribed,1,Victoria
+42,admin.,married,university.degree,no,yes,no,telephone,May,Tuesday,254,2,nonexistent,Not Subscribed,1,Queensland
+56,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,214,2,nonexistent,Not Subscribed,1,New South Wales
+43,entrepreneur,married,basic.4y,no,yes,no,telephone,May,Tuesday,147,3,nonexistent,Not Subscribed,1,Tasmania
+34,blue-collar,married,basic.4y,no,no,no,telephone,May,Tuesday,800,4,nonexistent,Not Subscribed,1,Queensland
+38,services,married,high.school,no,yes,no,telephone,May,Tuesday,106,2,nonexistent,Not Subscribed,1,Queensland
+40,technician,married,basic.9y,no,no,no,telephone,May,Tuesday,135,2,nonexistent,Not Subscribed,1,New South Wales
+38,admin.,married,high.school,no,no,no,telephone,May,Tuesday,112,4,nonexistent,Not Subscribed,1,Tasmania
+48,entrepreneur,married,university.degree,no,yes,no,telephone,May,Tuesday,222,2,nonexistent,Not Subscribed,1,New South Wales
+27,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Tuesday,314,3,nonexistent,Not Subscribed,1,New South Wales
+24,technician,single,professional.course,no,no,no,telephone,May,Tuesday,421,2,nonexistent,Not Subscribed,1,New South Wales
+47,admin.,single,unknown,unknown,yes,yes,telephone,May,Tuesday,410,2,nonexistent,Not Subscribed,1,Western Australia
+48,blue-collar,married,professional.course,unknown,no,no,telephone,May,Tuesday,207,3,nonexistent,Not Subscribed,1,New South Wales
+31,admin.,single,high.school,no,yes,yes,telephone,May,Tuesday,239,2,nonexistent,Not Subscribed,1,Victoria
+39,self-employed,single,basic.4y,unknown,yes,no,telephone,May,Tuesday,83,4,nonexistent,Not Subscribed,1,New South Wales
+41,technician,single,university.degree,unknown,no,no,telephone,May,Tuesday,160,3,nonexistent,Not Subscribed,1,Queensland
+49,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,42,3,nonexistent,Not Subscribed,1,Queensland
+56,retired,married,basic.4y,no,no,no,telephone,May,Tuesday,55,2,nonexistent,Not Subscribed,1,Western Australia
+49,admin.,married,high.school,no,no,no,telephone,May,Tuesday,157,2,nonexistent,Not Subscribed,1,New South Wales
+47,unemployed,divorced,university.degree,no,no,no,telephone,May,Tuesday,303,3,nonexistent,Not Subscribed,1,New South Wales
+44,blue-collar,married,unknown,unknown,yes,no,telephone,May,Tuesday,336,3,nonexistent,Not Subscribed,1,Victoria
+48,admin.,divorced,high.school,no,no,no,telephone,May,Tuesday,233,2,nonexistent,Not Subscribed,1,New South Wales
+55,housemaid,married,basic.4y,no,yes,yes,telephone,May,Tuesday,211,2,nonexistent,Not Subscribed,1,Western Australia
+59,management,married,basic.4y,unknown,yes,no,telephone,May,Tuesday,88,5,nonexistent,Not Subscribed,1,Western Australia
+44,technician,single,professional.course,no,yes,yes,telephone,May,Tuesday,139,2,nonexistent,Not Subscribed,1,New South Wales
+46,blue-collar,married,basic.9y,no,no,yes,telephone,May,Tuesday,329,3,nonexistent,Not Subscribed,1,Queensland
+39,blue-collar,divorced,basic.6y,unknown,yes,no,telephone,May,Tuesday,305,2,nonexistent,Not Subscribed,1,Queensland
+38,unemployed,married,basic.4y,unknown,yes,yes,telephone,May,Tuesday,206,2,nonexistent,Not Subscribed,1,New South Wales
+36,services,married,high.school,no,yes,no,telephone,May,Tuesday,128,2,nonexistent,Not Subscribed,1,New South Wales
+29,admin.,single,university.degree,no,no,no,telephone,May,Tuesday,122,3,nonexistent,Not Subscribed,1,Queensland
+31,technician,single,professional.course,no,yes,no,telephone,May,Tuesday,343,3,nonexistent,Not Subscribed,1,Queensland
+30,services,divorced,basic.9y,no,no,yes,telephone,May,Tuesday,126,2,nonexistent,Not Subscribed,1,New South Wales
+36,blue-collar,married,basic.4y,no,yes,no,telephone,May,Tuesday,249,3,nonexistent,Not Subscribed,1,Western Australia
+60,blue-collar,married,professional.course,no,no,no,telephone,May,Tuesday,59,3,nonexistent,Not Subscribed,1,Victoria
+36,admin.,married,university.degree,no,yes,no,telephone,May,Tuesday,166,3,nonexistent,Not Subscribed,1,New South Wales
+32,services,married,high.school,no,no,no,telephone,May,Tuesday,190,3,nonexistent,Not Subscribed,1,Victoria
+39,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Tuesday,216,2,nonexistent,Not Subscribed,1,New South Wales
+30,services,married,university.degree,no,yes,no,telephone,May,Wednesday,51,3,nonexistent,Not Subscribed,1,Western Australia
+39,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Wednesday,169,3,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Wednesday,148,3,nonexistent,Not Subscribed,1,New South Wales
+39,blue-collar,married,professional.course,unknown,yes,no,telephone,May,Wednesday,132,3,nonexistent,Not Subscribed,1,Queensland
+46,blue-collar,married,basic.4y,no,no,no,telephone,May,Wednesday,117,3,nonexistent,Not Subscribed,1,Tasmania
+43,unemployed,married,basic.4y,no,no,no,telephone,May,Wednesday,275,4,nonexistent,Not Subscribed,1,Queensland
+37,services,married,high.school,no,yes,no,telephone,May,Wednesday,124,2,nonexistent,Not Subscribed,1,Victoria
+30,technician,married,university.degree,unknown,no,no,telephone,May,Wednesday,118,3,nonexistent,Not Subscribed,1,Queensland
+38,technician,married,professional.course,no,no,no,telephone,May,Wednesday,479,2,nonexistent,Not Subscribed,1,Tasmania
+31,technician,married,university.degree,no,yes,no,telephone,May,Wednesday,285,3,nonexistent,Not Subscribed,1,Western Australia
+44,admin.,married,university.degree,no,no,no,telephone,May,Wednesday,322,2,nonexistent,Not Subscribed,1,Victoria
+44,self-employed,married,university.degree,unknown,no,no,telephone,May,Wednesday,202,2,nonexistent,Not Subscribed,1,Queensland
+38,technician,married,unknown,unknown,unknown,unknown,telephone,May,Wednesday,162,2,nonexistent,Not Subscribed,1,Western Australia
+30,student,single,high.school,unknown,no,no,telephone,May,Wednesday,216,3,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,married,basic.4y,unknown,unknown,unknown,telephone,May,Wednesday,195,2,nonexistent,Not Subscribed,1,Victoria
+54,housemaid,divorced,unknown,no,yes,no,telephone,May,Wednesday,96,2,nonexistent,Not Subscribed,1,New South Wales
+41,management,married,unknown,unknown,yes,no,telephone,May,Wednesday,149,2,nonexistent,Not Subscribed,1,Queensland
+43,technician,married,professional.course,no,no,no,telephone,May,Wednesday,720,2,nonexistent,Not Subscribed,1,Queensland
+38,housemaid,married,basic.9y,no,no,no,telephone,May,Wednesday,92,2,nonexistent,Not Subscribed,1,Queensland
+41,blue-collar,married,basic.4y,no,yes,no,telephone,May,Wednesday,188,2,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,single,unknown,unknown,no,yes,telephone,May,Wednesday,70,2,nonexistent,Not Subscribed,1,Victoria
+33,blue-collar,married,basic.9y,no,unknown,unknown,telephone,May,Wednesday,141,3,nonexistent,Not Subscribed,1,Victoria
+32,admin.,married,high.school,no,yes,no,telephone,May,Wednesday,395,2,nonexistent,Not Subscribed,1,New South Wales
+30,services,married,high.school,unknown,no,no,telephone,May,Wednesday,629,2,nonexistent,Not Subscribed,1,Queensland
+43,technician,married,basic.6y,no,yes,no,telephone,May,Wednesday,261,3,nonexistent,Not Subscribed,1,Queensland
+30,services,married,high.school,unknown,yes,no,telephone,May,Wednesday,502,1,nonexistent,Not Subscribed,1,New South Wales
+36,technician,divorced,professional.course,no,no,no,telephone,May,Wednesday,446,1,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,married,basic.6y,no,unknown,unknown,telephone,May,Wednesday,131,3,nonexistent,Not Subscribed,1,New South Wales
+35,blue-collar,single,basic.6y,no,yes,no,telephone,May,Wednesday,198,3,nonexistent,Not Subscribed,1,Victoria
+50,self-employed,married,university.degree,no,no,no,telephone,May,Wednesday,312,1,nonexistent,Not Subscribed,1,Victoria
+38,blue-collar,married,basic.9y,no,yes,no,telephone,May,Wednesday,275,6,nonexistent,Not Subscribed,1,Queensland
+58,admin.,married,basic.4y,unknown,no,yes,telephone,May,Wednesday,120,2,nonexistent,Not Subscribed,1,New South Wales
+50,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,333,4,nonexistent,Not Subscribed,1,New South Wales
+33,blue-collar,single,basic.9y,unknown,no,no,telephone,May,Wednesday,113,1,nonexistent,Not Subscribed,1,Western Australia
+33,blue-collar,single,basic.9y,unknown,unknown,unknown,telephone,May,Wednesday,150,1,nonexistent,Not Subscribed,1,New South Wales
+44,management,single,university.degree,unknown,yes,yes,telephone,May,Wednesday,91,1,nonexistent,Not Subscribed,1,Western Australia
+31,management,married,high.school,no,no,no,telephone,May,Wednesday,296,1,nonexistent,Not Subscribed,1,New South Wales
+40,entrepreneur,married,basic.9y,no,no,no,telephone,May,Wednesday,128,3,nonexistent,Not Subscribed,1,New South Wales
+28,unknown,single,basic.9y,unknown,no,no,telephone,May,Wednesday,298,1,nonexistent,Not Subscribed,1,Western Australia
+36,services,single,unknown,no,yes,no,telephone,May,Wednesday,326,1,nonexistent,Not Subscribed,1,Queensland
+44,blue-collar,single,high.school,no,no,no,telephone,May,Wednesday,292,1,nonexistent,Not Subscribed,1,Victoria
+38,blue-collar,divorced,unknown,no,yes,no,telephone,May,Wednesday,215,1,nonexistent,Not Subscribed,1,Victoria
+33,blue-collar,married,basic.9y,no,unknown,unknown,telephone,May,Wednesday,97,1,nonexistent,Not Subscribed,1,New South Wales
+39,blue-collar,divorced,basic.6y,unknown,yes,yes,telephone,May,Wednesday,32,1,nonexistent,Not Subscribed,1,Western Australia
+47,blue-collar,single,basic.4y,unknown,yes,no,telephone,May,Wednesday,162,1,nonexistent,Not Subscribed,1,New South Wales
+47,services,divorced,high.school,no,no,no,telephone,May,Wednesday,421,1,nonexistent,Not Subscribed,1,Victoria
+35,entrepreneur,single,professional.course,no,no,no,telephone,May,Wednesday,268,1,nonexistent,Not Subscribed,1,New South Wales
+42,admin.,divorced,university.degree,no,no,no,telephone,May,Wednesday,232,1,nonexistent,Not Subscribed,1,Queensland
+36,admin.,married,high.school,no,no,no,telephone,May,Wednesday,152,3,nonexistent,Not Subscribed,1,Queensland
+35,technician,married,basic.6y,no,no,no,telephone,May,Wednesday,104,2,nonexistent,Not Subscribed,1,Northern Territory
+36,services,single,unknown,no,yes,no,telephone,May,Wednesday,852,1,nonexistent,Not Subscribed,1,Tasmania
+56,entrepreneur,married,university.degree,unknown,yes,no,telephone,May,Wednesday,159,2,nonexistent,Not Subscribed,1,Victoria
+26,admin.,single,high.school,no,no,no,telephone,May,Wednesday,416,2,nonexistent,Not Subscribed,1,Victoria
+31,admin.,single,university.degree,no,yes,yes,telephone,May,Wednesday,174,1,nonexistent,Not Subscribed,1,Queensland
+57,self-employed,single,high.school,unknown,no,no,telephone,May,Wednesday,139,1,nonexistent,Not Subscribed,1,New South Wales
+39,services,married,high.school,no,no,no,telephone,May,Wednesday,193,1,nonexistent,Not Subscribed,1,New South Wales
+43,blue-collar,married,high.school,no,yes,no,telephone,May,Wednesday,294,1,nonexistent,Not Subscribed,1,New South Wales
+50,admin.,married,university.degree,no,no,no,telephone,May,Wednesday,102,1,nonexistent,Not Subscribed,1,New South Wales
+52,blue-collar,single,high.school,unknown,unknown,unknown,telephone,May,Wednesday,124,1,nonexistent,Not Subscribed,1,New South Wales
+39,blue-collar,divorced,basic.9y,no,no,no,telephone,May,Wednesday,143,1,nonexistent,Not Subscribed,1,Victoria
+44,technician,single,unknown,unknown,yes,no,telephone,May,Wednesday,231,1,nonexistent,Not Subscribed,1,Western Australia
+36,housemaid,married,basic.4y,no,yes,no,telephone,May,Wednesday,128,1,nonexistent,Not Subscribed,1,New South Wales
+54,management,married,high.school,unknown,yes,no,telephone,May,Wednesday,74,1,nonexistent,Not Subscribed,1,Western Australia
+27,admin.,single,basic.9y,no,yes,no,telephone,May,Wednesday,105,2,nonexistent,Not Subscribed,1,Victoria
+31,admin.,single,university.degree,no,no,no,telephone,May,Wednesday,992,1,nonexistent,Subscribed,0,Victoria
+31,admin.,married,university.degree,unknown,no,no,telephone,May,Wednesday,168,1,nonexistent,Not Subscribed,1,New South Wales
+28,blue-collar,married,basic.6y,no,no,no,telephone,May,Wednesday,250,1,nonexistent,Not Subscribed,1,Victoria
+31,management,single,university.degree,no,yes,no,telephone,May,Wednesday,254,1,nonexistent,Not Subscribed,1,Victoria
+30,management,divorced,high.school,no,no,yes,telephone,May,Wednesday,149,1,nonexistent,Not Subscribed,1,Queensland
+52,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,133,2,nonexistent,Not Subscribed,1,Western Australia
+37,technician,divorced,professional.course,no,no,no,telephone,May,Wednesday,374,1,nonexistent,Not Subscribed,1,Tasmania
+30,services,married,university.degree,no,yes,no,telephone,May,Wednesday,425,6,nonexistent,Not Subscribed,1,Western Australia
+45,blue-collar,married,basic.9y,unknown,yes,yes,telephone,May,Wednesday,207,1,nonexistent,Not Subscribed,1,Queensland
+54,technician,married,university.degree,no,yes,no,telephone,May,Wednesday,464,1,nonexistent,Not Subscribed,1,Victoria
+49,entrepreneur,married,basic.9y,no,yes,no,telephone,May,Wednesday,439,1,nonexistent,Not Subscribed,1,New South Wales
+44,admin.,married,high.school,no,no,no,telephone,May,Wednesday,83,3,nonexistent,Not Subscribed,1,Queensland
+28,student,single,basic.9y,unknown,yes,yes,telephone,May,Wednesday,732,2,nonexistent,Subscribed,0,New South Wales
+53,technician,married,high.school,no,yes,no,telephone,May,Wednesday,149,1,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Wednesday,142,1,nonexistent,Not Subscribed,1,New South Wales
+45,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Wednesday,121,1,nonexistent,Not Subscribed,1,New South Wales
+51,admin.,married,high.school,unknown,yes,no,telephone,May,Wednesday,359,1,nonexistent,Not Subscribed,1,Victoria
+41,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Wednesday,112,1,nonexistent,Not Subscribed,1,Tasmania
+43,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,274,4,nonexistent,Not Subscribed,1,New South Wales
+31,admin.,single,university.degree,no,yes,no,telephone,May,Wednesday,325,2,nonexistent,Not Subscribed,1,South Australia
+39,admin.,single,unknown,no,yes,no,telephone,May,Wednesday,1521,1,nonexistent,Not Subscribed,1,New South Wales
+38,technician,married,professional.course,no,no,no,telephone,May,Wednesday,216,1,nonexistent,Not Subscribed,1,South Australia
+50,entrepreneur,married,basic.9y,no,yes,yes,telephone,May,Wednesday,161,1,nonexistent,Not Subscribed,1,Queensland
+53,admin.,single,university.degree,unknown,yes,no,telephone,May,Wednesday,122,2,nonexistent,Not Subscribed,1,Victoria
+44,admin.,divorced,high.school,unknown,yes,no,telephone,May,Wednesday,800,1,nonexistent,Not Subscribed,1,New South Wales
+53,blue-collar,married,basic.9y,unknown,yes,yes,telephone,May,Wednesday,615,1,nonexistent,Not Subscribed,1,Western Australia
+24,services,single,high.school,no,no,no,telephone,May,Wednesday,111,1,nonexistent,Not Subscribed,1,New South Wales
+34,admin.,single,high.school,no,yes,no,telephone,May,Wednesday,359,1,nonexistent,Not Subscribed,1,New South Wales
+40,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,327,3,nonexistent,Not Subscribed,1,New South Wales
+57,management,divorced,university.degree,no,yes,no,telephone,May,Wednesday,236,1,nonexistent,Not Subscribed,1,Queensland
+43,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Wednesday,227,1,nonexistent,Not Subscribed,1,Victoria
+31,blue-collar,married,basic.6y,unknown,no,no,telephone,May,Wednesday,109,1,nonexistent,Not Subscribed,1,Queensland
+31,services,married,basic.6y,no,yes,no,telephone,May,Wednesday,492,2,nonexistent,Not Subscribed,1,South Australia
+31,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Wednesday,298,1,nonexistent,Not Subscribed,1,New South Wales
+45,housemaid,married,basic.4y,unknown,yes,no,telephone,May,Wednesday,83,2,nonexistent,Not Subscribed,1,Tasmania
+38,admin.,married,university.degree,no,no,no,telephone,May,Wednesday,241,2,nonexistent,Not Subscribed,1,New South Wales
+41,entrepreneur,married,university.degree,no,yes,no,telephone,May,Wednesday,1138,1,nonexistent,Subscribed,0,Queensland
+47,blue-collar,married,professional.course,unknown,yes,no,telephone,May,Wednesday,131,1,nonexistent,Not Subscribed,1,Victoria
+42,blue-collar,married,basic.6y,no,no,no,telephone,May,Wednesday,123,1,nonexistent,Not Subscribed,1,New South Wales
+35,blue-collar,single,unknown,no,yes,no,telephone,May,Wednesday,125,1,nonexistent,Not Subscribed,1,Queensland
+40,management,married,university.degree,no,yes,no,telephone,May,Wednesday,295,2,nonexistent,Not Subscribed,1,Queensland
+42,blue-collar,married,basic.6y,no,no,no,telephone,May,Wednesday,287,1,nonexistent,Not Subscribed,1,Queensland
+34,technician,married,professional.course,unknown,yes,no,telephone,May,Wednesday,109,1,nonexistent,Not Subscribed,1,New South Wales
+48,admin.,single,university.degree,no,yes,no,telephone,May,Wednesday,140,2,nonexistent,Not Subscribed,1,New South Wales
+35,blue-collar,married,unknown,no,yes,yes,telephone,May,Wednesday,52,1,nonexistent,Not Subscribed,1,Queensland
+33,blue-collar,married,high.school,no,yes,no,telephone,May,Wednesday,233,1,nonexistent,Not Subscribed,1,Northern Territory
+37,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,254,1,nonexistent,Not Subscribed,1,Queensland
+43,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,255,1,nonexistent,Not Subscribed,1,New South Wales
+42,admin.,single,unknown,unknown,no,no,telephone,May,Wednesday,126,1,nonexistent,Not Subscribed,1,New South Wales
+46,admin.,divorced,university.degree,no,yes,no,telephone,May,Wednesday,184,2,nonexistent,Not Subscribed,1,New South Wales
+37,blue-collar,single,basic.9y,unknown,yes,no,telephone,May,Wednesday,591,1,nonexistent,Subscribed,0,New South Wales
+40,blue-collar,married,high.school,no,yes,no,telephone,May,Wednesday,294,1,nonexistent,Not Subscribed,1,Victoria
+40,blue-collar,married,high.school,no,yes,no,telephone,May,Wednesday,285,1,nonexistent,Not Subscribed,1,Queensland
+59,entrepreneur,divorced,high.school,unknown,yes,no,telephone,May,Wednesday,173,1,nonexistent,Not Subscribed,1,Queensland
+43,technician,single,university.degree,no,no,no,telephone,May,Wednesday,336,1,nonexistent,Not Subscribed,1,Victoria
+44,blue-collar,married,basic.6y,no,yes,yes,telephone,May,Wednesday,344,1,nonexistent,Not Subscribed,1,Queensland
+44,blue-collar,married,basic.4y,no,yes,no,telephone,May,Wednesday,786,1,nonexistent,Subscribed,0,Victoria
+41,admin.,married,university.degree,no,yes,no,telephone,May,Wednesday,153,1,nonexistent,Not Subscribed,1,New South Wales
+28,unknown,single,basic.9y,unknown,yes,no,telephone,May,Wednesday,99,2,nonexistent,Not Subscribed,1,South Australia
+48,services,married,high.school,unknown,yes,no,telephone,May,Wednesday,243,1,nonexistent,Not Subscribed,1,New South Wales
+31,admin.,single,high.school,no,yes,no,telephone,May,Wednesday,260,1,nonexistent,Not Subscribed,1,Victoria
+27,blue-collar,married,basic.9y,no,yes,no,telephone,May,Wednesday,164,2,nonexistent,Not Subscribed,1,New South Wales
+43,technician,single,university.degree,no,yes,no,telephone,May,Wednesday,255,2,nonexistent,Not Subscribed,1,Queensland
+47,retired,married,basic.4y,unknown,yes,no,telephone,May,Wednesday,47,1,nonexistent,Not Subscribed,1,New South Wales
+40,blue-collar,divorced,unknown,no,yes,no,telephone,May,Wednesday,110,2,nonexistent,Not Subscribed,1,Victoria
+43,unknown,married,high.school,unknown,no,no,telephone,May,Wednesday,463,1,nonexistent,Not Subscribed,1,Queensland
+29,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,192,1,nonexistent,Not Subscribed,1,New South Wales
+54,admin.,married,university.degree,no,no,no,telephone,May,Wednesday,388,7,nonexistent,Not Subscribed,1,New South Wales
+36,technician,married,professional.course,no,no,no,telephone,May,Wednesday,221,1,nonexistent,Not Subscribed,1,Queensland
+30,admin.,single,university.degree,no,no,no,telephone,May,Wednesday,25,1,nonexistent,Not Subscribed,1,New South Wales
+38,services,single,unknown,unknown,yes,no,telephone,May,Wednesday,256,6,nonexistent,Not Subscribed,1,Victoria
+39,blue-collar,married,basic.6y,no,no,no,telephone,May,Wednesday,104,1,nonexistent,Not Subscribed,1,Queensland
+33,blue-collar,married,basic.9y,no,no,no,telephone,May,Wednesday,283,2,nonexistent,Not Subscribed,1,Victoria
+39,retired,single,high.school,no,yes,no,telephone,May,Wednesday,448,1,nonexistent,Not Subscribed,1,Western Australia
+38,technician,single,professional.course,no,no,no,telephone,May,Wednesday,127,1,nonexistent,Not Subscribed,1,Queensland
+44,admin.,married,high.school,no,yes,no,telephone,May,Wednesday,378,1,nonexistent,Not Subscribed,1,New South Wales
+33,blue-collar,married,basic.9y,no,yes,no,telephone,May,Wednesday,67,1,nonexistent,Not Subscribed,1,Queensland
+37,blue-collar,married,basic.6y,no,no,no,telephone,May,Wednesday,221,2,nonexistent,Not Subscribed,1,New South Wales
+32,management,married,basic.6y,no,no,no,telephone,May,Wednesday,150,1,nonexistent,Not Subscribed,1,New South Wales
+46,technician,married,professional.course,no,yes,no,telephone,May,Wednesday,144,2,nonexistent,Not Subscribed,1,New South Wales
+34,technician,divorced,professional.course,no,yes,no,telephone,May,Wednesday,296,2,nonexistent,Not Subscribed,1,Queensland
+52,technician,married,basic.4y,unknown,no,no,telephone,May,Wednesday,161,1,nonexistent,Not Subscribed,1,Queensland
+46,blue-collar,married,basic.6y,unknown,no,no,telephone,May,Wednesday,401,2,nonexistent,Not Subscribed,1,Queensland
+57,management,divorced,university.degree,no,unknown,unknown,telephone,May,Wednesday,435,2,nonexistent,Not Subscribed,1,Queensland
+52,technician,married,basic.4y,unknown,no,yes,telephone,May,Wednesday,388,1,nonexistent,Not Subscribed,1,New South Wales
+32,technician,single,professional.course,no,no,no,telephone,May,Wednesday,245,1,nonexistent,Not Subscribed,1,Victoria
+31,blue-collar,single,basic.9y,no,no,no,telephone,May,Wednesday,143,1,nonexistent,Not Subscribed,1,Victoria
+46,admin.,divorced,basic.9y,unknown,no,no,telephone,May,Wednesday,423,1,nonexistent,Not Subscribed,1,Western Australia
+59,services,divorced,high.school,no,no,no,telephone,May,Wednesday,231,1,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,married,unknown,unknown,no,yes,telephone,May,Wednesday,181,1,nonexistent,Not Subscribed,1,Queensland
+42,blue-collar,divorced,basic.6y,unknown,yes,no,telephone,May,Wednesday,107,1,nonexistent,Not Subscribed,1,New South Wales
+40,blue-collar,married,basic.4y,no,no,no,telephone,May,Wednesday,227,1,nonexistent,Not Subscribed,1,New South Wales
+46,admin.,married,professional.course,no,no,no,telephone,May,Wednesday,69,1,nonexistent,Not Subscribed,1,Victoria
+35,admin.,single,high.school,no,no,no,telephone,May,Wednesday,799,1,nonexistent,Not Subscribed,1,Queensland
+28,blue-collar,married,basic.9y,no,no,yes,telephone,May,Wednesday,109,1,nonexistent,Not Subscribed,1,Victoria
+47,services,married,high.school,unknown,yes,no,telephone,May,Wednesday,127,1,nonexistent,Not Subscribed,1,Western Australia
+35,blue-collar,married,basic.4y,no,yes,no,telephone,May,Wednesday,45,1,nonexistent,Not Subscribed,1,Victoria
+48,retired,married,basic.9y,no,yes,no,telephone,May,Wednesday,120,1,nonexistent,Not Subscribed,1,New South Wales
+40,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Wednesday,68,3,nonexistent,Not Subscribed,1,Victoria
+32,services,single,high.school,no,yes,no,telephone,May,Wednesday,180,2,nonexistent,Not Subscribed,1,Western Australia
+59,retired,divorced,basic.4y,no,yes,no,telephone,May,Wednesday,112,3,nonexistent,Not Subscribed,1,New South Wales
+48,entrepreneur,married,basic.9y,unknown,no,no,telephone,May,Wednesday,444,1,nonexistent,Not Subscribed,1,Victoria
+45,blue-collar,married,basic.9y,unknown,yes,no,telephone,May,Wednesday,246,2,nonexistent,Not Subscribed,1,Western Australia
+49,blue-collar,single,basic.6y,no,yes,no,telephone,May,Wednesday,148,4,nonexistent,Not Subscribed,1,Western Australia
+51,admin.,married,university.degree,no,yes,no,telephone,May,Wednesday,223,3,nonexistent,Not Subscribed,1,South Australia
+38,technician,single,university.degree,no,yes,no,telephone,May,Wednesday,566,2,nonexistent,Not Subscribed,1,New South Wales
+53,technician,married,high.school,no,yes,no,telephone,May,Wednesday,274,2,nonexistent,Not Subscribed,1,New South Wales
+49,blue-collar,married,basic.9y,no,yes,no,telephone,May,Wednesday,49,3,nonexistent,Not Subscribed,1,Queensland
+31,blue-collar,married,basic.9y,no,yes,yes,telephone,May,Wednesday,97,2,nonexistent,Not Subscribed,1,Victoria
+36,services,married,high.school,unknown,yes,no,telephone,May,Wednesday,376,2,nonexistent,Not Subscribed,1,Queensland
+54,retired,married,basic.4y,unknown,yes,no,telephone,May,Wednesday,421,2,nonexistent,Not Subscribed,1,Victoria
+29,admin.,single,high.school,no,yes,no,telephone,May,Wednesday,511,2,nonexistent,Not Subscribed,1,New South Wales
+31,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Wednesday,121,2,nonexistent,Not Subscribed,1,Victoria
+35,admin.,married,high.school,no,yes,no,telephone,May,Wednesday,157,2,nonexistent,Not Subscribed,1,Queensland
+38,blue-collar,married,basic.9y,no,no,no,telephone,May,Wednesday,101,1,nonexistent,Not Subscribed,1,Northern Territory
+54,management,married,high.school,unknown,yes,yes,telephone,May,Wednesday,328,2,nonexistent,Not Subscribed,1,Victoria
+48,admin.,married,basic.9y,unknown,no,no,telephone,May,Wednesday,19,1,nonexistent,Not Subscribed,1,Queensland
+48,management,divorced,university.degree,no,yes,no,telephone,May,Wednesday,866,2,nonexistent,Not Subscribed,1,New South Wales
+32,admin.,single,university.degree,unknown,yes,no,telephone,May,Wednesday,229,3,nonexistent,Not Subscribed,1,New South Wales
+34,technician,married,professional.course,unknown,yes,no,telephone,May,Wednesday,154,2,nonexistent,Not Subscribed,1,New South Wales
+49,technician,single,university.degree,unknown,yes,no,telephone,May,Wednesday,56,1,nonexistent,Not Subscribed,1,Queensland
+44,blue-collar,married,basic.9y,unknown,unknown,unknown,telephone,May,Wednesday,199,1,nonexistent,Not Subscribed,1,Western Australia
+42,services,divorced,high.school,unknown,no,no,telephone,May,Wednesday,117,1,nonexistent,Not Subscribed,1,Northern Territory
+55,blue-collar,married,basic.4y,unknown,no,no,telephone,May,Wednesday,1581,2,nonexistent,Not Subscribed,1,Queensland
+42,services,divorced,high.school,unknown,no,no,telephone,May,Wednesday,185,1,nonexistent,Not Subscribed,1,New South Wales
+44,admin.,married,university.degree,unknown,no,no,telephone,May,Wednesday,202,1,nonexistent,Not Subscribed,1,Queensland
+51,blue-collar,married,basic.9y,no,no,no,telephone,May,Wednesday,279,1,nonexistent,Not Subscribed,1,New South Wales
+43,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Wednesday,180,5,nonexistent,Not Subscribed,1,South Australia
+52,technician,married,high.school,no,yes,no,telephone,May,Wednesday,530,2,nonexistent,Not Subscribed,1,Western Australia
+45,blue-collar,single,basic.6y,no,yes,no,telephone,May,Wednesday,129,5,nonexistent,Not Subscribed,1,New South Wales
+41,services,divorced,high.school,no,yes,yes,telephone,May,Wednesday,60,1,nonexistent,Not Subscribed,1,New South Wales
+35,technician,divorced,unknown,no,yes,yes,telephone,May,Wednesday,432,1,nonexistent,Not Subscribed,1,New South Wales
+41,services,divorced,high.school,no,no,yes,telephone,May,Wednesday,516,1,nonexistent,Not Subscribed,1,Northern Territory
+46,management,married,basic.9y,no,no,no,telephone,May,Wednesday,617,1,nonexistent,Not Subscribed,1,Queensland
+36,housemaid,divorced,basic.9y,unknown,no,no,telephone,May,Wednesday,179,2,nonexistent,Not Subscribed,1,New South Wales
+29,technician,married,professional.course,no,no,no,telephone,May,Wednesday,125,2,nonexistent,Not Subscribed,1,New South Wales
+47,services,married,unknown,no,no,no,telephone,May,Wednesday,262,2,nonexistent,Not Subscribed,1,Victoria
+43,blue-collar,married,basic.4y,unknown,yes,no,telephone,May,Wednesday,396,2,nonexistent,Not Subscribed,1,New South Wales
+38,blue-collar,single,basic.9y,unknown,no,no,telephone,May,Wednesday,294,2,nonexistent,Not Subscribed,1,New South Wales
+44,blue-collar,married,basic.4y,no,yes,no,telephone,May,Wednesday,171,2,nonexistent,Not Subscribed,1,Tasmania
+29,services,married,high.school,no,no,no,telephone,May,Wednesday,614,2,nonexistent,Not Subscribed,1,New South Wales
+58,unknown,married,unknown,unknown,no,no,telephone,May,Wednesday,118,3,nonexistent,Not Subscribed,1,Victoria
+48,blue-collar,married,professional.course,no,no,yes,telephone,May,Wednesday,485,4,nonexistent,Not Subscribed,1,Victoria
+46,blue-collar,married,basic.9y,unknown,no,no,telephone,May,Wednesday,406,2,nonexistent,Not Subscribed,1,Victoria
+31,blue-collar,married,basic.4y,no,yes,no,telephone,May,Wednesday,287,1,nonexistent,Not Subscribed,1,Victoria
+47,services,married,unknown,no,no,no,telephone,May,Wednesday,216,2,nonexistent,Not Subscribed,1,Queensland
+44,admin.,married,university.degree,no,yes,no,telephone,May,Wednesday,37,2,nonexistent,Not Subscribed,1,Victoria
+31,blue-collar,married,basic.4y,no,yes,no,telephone,May,Wednesday,650,1,nonexistent,Not Subscribed,1,Queensland
+38,unemployed,divorced,professional.course,no,no,no,telephone,May,Wednesday,590,3,nonexistent,Not Subscribed,1,Queensland
+33,admin.,married,university.degree,no,no,no,telephone,May,Wednesday,55,1,nonexistent,Not Subscribed,1,New South Wales
+53,blue-collar,married,basic.9y,no,yes,no,telephone,May,Wednesday,166,1,nonexistent,Not Subscribed,1,New South Wales
+33,management,single,unknown,no,yes,no,telephone,May,Wednesday,371,2,nonexistent,Not Subscribed,1,Queensland
+33,self-employed,married,basic.9y,no,yes,no,telephone,May,Wednesday,48,1,nonexistent,Not Subscribed,1,South Australia
+37,admin.,divorced,university.degree,no,yes,no,telephone,May,Wednesday,72,1,nonexistent,Not Subscribed,1,Western Australia
+55,blue-collar,married,basic.9y,no,yes,no,telephone,May,Wednesday,55,1,nonexistent,Not Subscribed,1,Queensland
+41,admin.,single,basic.6y,no,unknown,unknown,telephone,May,Wednesday,92,1,nonexistent,Not Subscribed,1,Victoria
+46,blue-collar,married,basic.6y,unknown,yes,no,telephone,May,Wednesday,196,2,nonexistent,Not Subscribed,1,New South Wales
+32,entrepreneur,divorced,university.degree,no,no,no,telephone,May,Wednesday,96,1,nonexistent,Not Subscribed,1,Victoria
+48,blue-collar,married,high.school,no,no,no,telephone,May,Wednesday,144,1,nonexistent,Not Subscribed,1,New South Wales
+34,entrepreneur,married,basic.4y,no,yes,no,telephone,May,Wednesday,474,1,nonexistent,Not Subscribed,1,South Australia
+35,admin.,single,university.degree,no,no,no,telephone,May,Wednesday,559,1,nonexistent,Not Subscribed,1,New South Wales
+55,blue-collar,married,basic.4y,no,yes,yes,telephone,May,Wednesday,1101,1,nonexistent,Not Subscribed,1,Victoria
+45,entrepreneur,single,university.degree,no,unknown,unknown,telephone,May,Wednesday,229,3,nonexistent,Not Subscribed,1,Western Australia
+48,management,divorced,university.degree,no,no,no,telephone,May,Wednesday,236,2,nonexistent,Not Subscribed,1,Queensland
+34,blue-collar,married,basic.6y,no,yes,no,telephone,May,Wednesday,164,1,nonexistent,Not Subscribed,1,Western Australia
+46,admin.,divorced,university.degree,unknown,no,no,telephone,May,Wednesday,93,1,nonexistent,Not Subscribed,1,New South Wales
+34,blue-collar,married,basic.6y,no,yes,no,telephone,May,Wednesday,123,1,nonexistent,Not Subscribed,1,Western Australia
+51,unemployed,married,professional.course,unknown,no,no,telephone,May,Wednesday,912,2,nonexistent,Not Subscribed,1,New South Wales
+37,admin.,married,university.degree,no,no,no,telephone,May,Wednesday,209,2,nonexistent,Not Subscribed,1,Queensland
+54,housemaid,divorced,basic.4y,no,no,no,telephone,May,Wednesday,485,1,nonexistent,Not Subscribed,1,Victoria
+45,services,married,high.school,unknown,yes,no,telephone,May,Wednesday,206,2,nonexistent,Not Subscribed,1,Victoria
+39,services,single,high.school,no,unknown,unknown,telephone,May,Wednesday,239,2,nonexistent,Not Subscribed,1,Western Australia
+39,blue-collar,married,basic.9y,no,no,no,telephone,May,Wednesday,311,1,nonexistent,Not Subscribed,1,Northern Territory
+39,technician,single,basic.6y,unknown,no,no,telephone,May,Wednesday,362,1,nonexistent,Not Subscribed,1,Tasmania
+39,services,married,basic.9y,no,no,no,telephone,May,Wednesday,274,1,nonexistent,Not Subscribed,1,New South Wales
+32,entrepreneur,married,basic.6y,no,yes,no,telephone,May,Wednesday,163,1,nonexistent,Not Subscribed,1,Queensland
+41,services,single,high.school,no,yes,yes,telephone,May,Wednesday,345,1,nonexistent,Not Subscribed,1,Victoria
+59,housemaid,married,basic.6y,no,yes,no,telephone,May,Wednesday,329,1,nonexistent,Not Subscribed,1,New South Wales
+57,technician,married,basic.9y,no,yes,no,telephone,May,Wednesday,68,1,nonexistent,Not Subscribed,1,New South Wales
+30,services,married,unknown,no,no,no,telephone,May,Wednesday,143,3,nonexistent,Not Subscribed,1,South Australia
