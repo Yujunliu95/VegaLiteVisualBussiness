@@ -1,0 +1,60 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 200,
+    "height": 300,
+    "title": "Desired Target by Education Level",
+    "data": {
+      "url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_small.csv"
+    },
+    "selection": {
+      "stateFilter": {
+        "type": "single",
+        "fields": ["state"],
+        "bind": {
+          "input": "select",
+          "options": ["New South Wales", "Victoria", "Queensland", 
+          "Western Australia", "South Australia", 
+          "Tasmania", "Northern Territory"]  
+        }
+      }
+    },
+    "transform": [{
+      "filter": {"selection": "stateFilter"}
+    }],
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "education",
+        "type": "ordinal",
+        "title": "Education Level",
+        "axis": {
+          "labelAngle": -90
+        }
+      },
+      "y": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "title": "Count"
+      },
+      "color": {
+        "field": "Desired_Target",
+        "type": "nominal",
+        "title": "Desired Target",
+        "scale": {
+          "domain": ["Subscribed", "Not Subscribed"],
+          "range": ["#7293cb", "#d35e60"]
+        }
+      },
+      "tooltip": [
+        {"field": "education", "type": "ordinal", "title": "Education Level"},
+        {"field": "Desired_Target", "type": "nominal", "title": "Desired Target"},
+        {"field": "state", "type": "nominal", "title": "State"}
+      ]
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  
