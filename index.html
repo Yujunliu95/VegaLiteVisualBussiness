@@ -159,6 +159,29 @@
     </div>
     <!-- end pure grid group -->
 
+   <!-- pure grid group -->
+   <div class="pure-g">
+    <div class="pure-u-1-2">
+      <div class="description description-left">
+        <div id="vis4" class="vis-container"></div>
+      </div>
+    </div>
+    <div class="pure-u-1-2">
+      <div class="description description-right">
+        <div id="vis5" class="vis-container"></div>
+      </div>
+    </div>
+    <div class="pure-u-1-2">
+      <div class="description description-right">
+        <div id="vis6" class="vis-container"></div>
+      </div>
+    </div>
+  </div>
+  <!-- end pure grid group -->
+
+    
+
+
    
 
 
@@ -167,6 +190,8 @@
     var specVis2 = "js/map.vg.json";
     var specVis3 = "js/lineplot.vg.json";
     var specVis4 = "js/barplot1.vg.json";
+    var specVis5 = "js/barplot2.vg.json";
+    var specVis6 = "js/barplot3.vg.json";
 
   
     vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
@@ -182,6 +207,14 @@
     }).catch(console.error);
   
     vegaEmbed('#vis4', specVis4, {"actions": false}).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis5', specVis5, {"actions": false}).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis6', specVis6, {"actions": false}).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
