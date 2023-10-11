@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 400,
     "height": 300,
-    "data": {"url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_small.csv"},
+    "data": {"url": "https://yujunliu95.github.io/VegaLiteVisualBussiness/data/A2_dataNew.csv"},
     "transform": [
       {"aggregate": [{"op": "count", "as": "n"}], "groupby": ["Desired_Target"]},
       {"window": [{"op": "sum", "field": "n", "as": "total"}], "frame": [null, null]},
