@@ -33,5 +33,6 @@
       {"field": "state", "type": "nominal"},
       {"field": "TotalCount", "type": "quantitative"}
     ]
-  }
+  },
+  "config": {"background":"#fff5e8"}
 }

@@ -54,7 +54,8 @@
     "config": {
       "view": {
         "stroke": "transparent"
-      }
+      },
+      "background":"#fff5e8"
     }
   }
   

@@ -62,7 +62,9 @@
           "legend": {
         "labelFontSize": 16,
         "titleFontSize": 18
-        }
+        },
+        "background":"#fff5e8"
     }
+    
   }
   
