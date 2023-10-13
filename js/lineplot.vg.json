@@ -8,6 +8,17 @@
   "height": 300,
   "layer": [
     {
+      "selection": {
+        "lineFilter": {
+          "type": "single",
+          "fields": ["variable"],
+          "bind": {
+            "input": "select",
+            "options": ["Loan - No", "Loan - Yes"],
+            "name": "Loan Type: "
+          }
+        }
+      },
       "mark": {
         "type": "line",
         "point": true
@@ -38,10 +49,15 @@
           {"field": "value", "type": "quantitative", "title": "Count"}
         ]
       },
-      "transform": [{
-        "fold": ["Loan - No", "Loan - Yes"],
-        "as": ["variable", "value"]
-      }]
+      "transform": [
+        {
+          "fold": ["Loan - No", "Loan - Yes"],
+          "as": ["variable", "value"]
+        },
+        {
+          "filter": {"selection": "lineFilter"}
+        }
+      ]
     },
     {
       "data": {
