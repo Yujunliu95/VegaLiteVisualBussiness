@@ -28,7 +28,8 @@
   "mark": "geoshape",
   "encoding": {
     "shape": {"field": "geo", "type": "geojson"},
-    "color": {"field": "TotalCount", "type": "quantitative"},
+    "color": {"field": "TotalCount", "type": "quantitative","scale": {
+      "range": ["#7293cb", "#d35e60"]},
     "tooltip": [
       {"field": "state", "type": "nominal"},
       {"field": "TotalCount", "type": "quantitative"}
