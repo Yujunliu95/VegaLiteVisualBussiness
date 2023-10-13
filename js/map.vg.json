@@ -28,13 +28,13 @@
   "mark": "geoshape",
   "encoding": {
     "shape": {"field": "geo", "type": "geojson"},
-    "color": {"field": "TotalCount", "type": "quantitative","scale": {
-      "range": ["#7293cb", "#d35e60"]},
+    "color": {"field": "TotalCount", "type": "quantitative"},
     "tooltip": [
       {"field": "state", "type": "nominal"},
       {"field": "TotalCount", "type": "quantitative"}
     ]
   },
-  "config": {"background":"#fff5e8"}
-}
+  "config": {
+    "background":"#fff5e8"
+  }
 }
