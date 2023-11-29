@@ -1,0 +1,131 @@
+,country,total_consumption,total_co2_emission,states
+0,Albania,532.73,1777.85,Europe
+1,Algeria,364.51,707.88,Africa
+2,Angola,115.99000000000001,412.99,Africa
+3,Argentina,429.40999999999997,2172.4,South America
+4,Armenia,407.11,1109.93,Asia
+5,Australia,465.09000000000003,1938.6599999999999,Oceania
+6,Austria,469.14,1211.16,Europe
+7,Bahamas,301.45,1192.9,North America
+8,Bangladesh,236.6,374.18,Asia
+9,Barbados,311.26,889.11,North America
+10,Belarus,321.53,960.22,Europe
+11,Belgium,463.46,1102.09,Europe
+12,Belize,232.77,433.08,North America
+13,Bermuda,306.62,1483.28,North America
+14,Bolivia,204.25,873.0300000000001,South America
+15,Bosnia and Herzegovina,313.64,628.1800000000001,Europe
+16,Botswana,188.85,576.8399999999999,Africa
+17,Brazil,355.16,1616.7299999999998,South America
+18,Bulgaria,348.42999999999995,560.16,Europe
+19,Cambodia,225.06,452.41,Asia
+20,Cameroon,97.09,283.61,Africa
+21,Canada,412.55,1437.16,North America
+22,Chile,335.06,1099.57,South America
+23,China,283.9,640.19,Asia
+24,Colombia,235.03,781.53,South America
+25,Congo,117.33,262.54999999999995,Africa
+26,Costa Rica,343.07,891.27,North America
+27,Croatia,433.87,996.15,Europe
+28,Cuba,291.01,591.69,North America
+29,Cyprus,303.65000000000003,741.37,Asia
+30,Czech Republic,384.61,760.09,Europe
+31,Denmark,499.07000000000005,1498.18,Europe
+32,Ecuador,291.36,883.88,South America
+33,Egypt,303.48,673.92,Africa
+34,El Salvador,209.76,434.04,North America
+35,Estonia,464.96000000000004,830.72,Europe
+36,Ethiopia,85.77,241.92000000000002,Africa
+37,Fiji,252.52,716.0899999999999,Oceania
+38,Finland,639.79,1464.63,Europe
+39,France,479.17,1420.05,Europe
+40,French Polynesia,346.65999999999997,1424.69,Oceania
+41,Gambia,180.56,293.66,Africa
+42,Georgia,362.22,527.03,Asia
+43,Germany,461.1,1066.29,Europe
+44,Ghana,101.21,217.87,Africa
+45,Greece,493.63,1497.29,Europe
+46,Grenada,254.25,439.85,North America
+47,Guatemala,133.3,314.98,North America
+48,Guinea,161.41,432.71,Africa
+49,Honduras,185.76,434.08,North America
+50,Hong Kong SAR. China,426.02,1494.28,
+51,Hungary,352.99,576.79,Europe
+52,Iceland,472.31,1731.36,Europe
+53,India,227.70000000000002,282.62,Asia
+54,Indonesia,224.98999999999998,367.51,Asia
+55,Iran,292.26,445.27000000000004,Asia
+56,Ireland,518.6500000000001,1459.67,Europe
+57,Israel,457.75,1405.71,Asia
+58,Italy,513.98,1206.33,Europe
+59,Jamaica,273.02,450.83,North America
+60,Japan,286.46,644.0400000000001,Asia
+61,Jordan,291.41999999999996,587.96,Asia
+62,Kazakhstan,468.1,1575.08,Asia
+63,Kenya,162.56,530.84,Africa
+64,Kuwait,410.38,1345.44,Asia
+65,Latvia,348.53999999999996,633.58,Europe
+66,Liberia,131.04,203.38,Africa
+67,Lithuania,555.01,868.9000000000001,Europe
+68,Luxembourg,497.9,1598.41,Europe
+69,Macedonia,321.47,600.75,Europe
+70,Madagascar,155.63,440.75,Africa
+71,Malawi,51.0,207.94,Africa
+72,Malaysia,282.74,554.64,Asia
+73,Maldives,476.3299999999999,903.46,Asia
+74,Malta,457.54,1147.91,Europe
+75,Mauritius,358.12,672.07,Africa
+76,Mexico,242.72,797.13,North America
+77,Morocco,296.01,576.42,Africa
+78,Mozambique,63.41,141.4,Africa
+79,Myanmar,275.1,563.8,Asia
+80,Namibia,151.15,362.11,Africa
+81,Nepal,208.55,526.22,Asia
+82,Netherlands,534.1700000000001,1292.82,Europe
+83,New Caledonia,321.24,918.62,Oceania
+84,New Zealand,360.92,1750.95,Oceania
+85,Nicaragua,196.95,377.69,North America
+86,Niger,101.14,542.8900000000001,Africa
+87,Nigeria,94.23,267.79,Africa
+88,Norway,487.49,1381.8899999999999,Europe
+89,Oman,363.66999999999996,1296.7,Asia
+90,Pakistan,330.95,669.07,Asia
+91,Panama,260.53000000000003,928.4599999999999,North America
+92,Paraguay,189.17,876.6700000000001,South America
+93,Peru,215.19,402.84,South America
+94,Philippines,227.79000000000002,455.28000000000003,Asia
+95,Poland,411.42,607.4,Europe
+96,Portugal,459.44,1174.28,Europe
+97,Romania,445.49,766.3000000000001,Europe
+98,Russia,408.73,1007.6600000000001,Europe
+99,Rwanda,40.38,181.63,Africa
+100,Saudi Arabia,291.82,692.86,Asia
+101,Senegal,169.67,469.43,Africa
+102,Serbia,326.71,723.34,Europe
+103,Sierra Leone,167.37,300.40999999999997,Africa
+104,Slovakia,350.06,560.34,Europe
+105,Slovenia,436.41,1111.5600000000002,Europe
+106,South Africa,212.41,892.4100000000001,Africa
+107,South Korea,286.06,822.05,Asia
+108,Spain,407.96,988.47,Europe
+109,Sri Lanka,218.77,294.46,Asia
+110,Swaziland,150.29999999999998,678.94,Africa
+111,Sweden,550.0,1527.03,Europe
+112,Switzerland,514.9,1356.75,Europe
+113,Taiwan. ROC,273.5,559.55,
+114,Tanzania,98.83000000000001,343.02,Africa
+115,Thailand,219.57999999999998,378.0,Asia
+116,Togo,74.32,188.09,Africa
+117,Trinidad and Tobago,315.02,610.41,North America
+118,Tunisia,370.93,618.89,Africa
+119,Turkey,433.21,897.01,Asia
+120,USA,491.15,1718.86,North America
+121,Uganda,80.58,304.72,Africa
+122,Ukraine,343.28000000000003,665.73,Europe
+123,United Arab Emirates,397.71,897.32,Asia
+124,United Kingdom,447.96999999999997,1241.6299999999999,Europe
+125,Uruguay,433.59999999999997,1634.9099999999999,South America
+126,Venezuela,277.39000000000004,1104.1,South America
+127,Vietnam,268.74,641.51,Asia
+128,Zambia,57.11,225.3,Africa
+129,Zimbabwe,96.56,350.33,Africa
